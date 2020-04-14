@@ -1,0 +1,622 @@
+Sample,Sample protolith type,U-Pb data? (Yes/No),Used in MDS?,Lu-Hf data? (Yes/No),Country,Region,Domain,Group/Strat unit,Lithology,Longitude,Latitude,Location method,Analytical method,Mineral,Reference,DOI URL,age,ageerr,
+Dwcomp_19,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Granite (Choma-Kalomo block),Granite (Choma-Kalomo block),26,-16,Georeferenced,U–Pb SHRIMP zircon,,Bulambo et al. (2004),,1174,27,
+Dwcomp_20,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Granite (Choma-Kalomo block),Granite (Choma-Kalomo block),27,-16,Georeferenced,U–Pb SHRIMP zircon,,Bulambo et al. (2004),,1177,70,
+Dwcomp_21,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Granite (Choma-Kalomo block),Granite (Choma-Kalomo block),27,-16,Georeferenced,U–Pb SHRIMP zircon,,Bulambo et al. (2004),,1181,9,
+Dwcomp_22,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Granite (Choma-Kalomo block),Granite (Choma-Kalomo block),26,-16,Georeferenced,U–Pb SHRIMP zircon,,Bulambo et al. (2004),,1188,11,
+Dwcomp_23,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Granite (Choma-Kalomo block),Granite (Choma-Kalomo block),27,-16,Georeferenced,U–Pb SHRIMP zircon,,Bulambo et al. (2004),,1368,10,
+Dwcomp_01,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luangwa gneiss,Luangwa gneiss,30,-14,Georeferenced,LA-ICP-MS,,Cox et al. (2002),,2033,,
+Dwcomp_02,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luangwa gneiss,Luangwa gneiss,,,Georeferenced,LA–ICP–MS,,Cox et al. (2002),,2608,14,
+Dwcomp_41,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Kaunga Granite,Kaunga Granite,32,-10,Georeferenced,U–Pb TIMS bulk zircon,,Daly (1986),,970,5,
+CC10,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite gneiss,Porphyritic granite gneiss,29,-14,Georeferenced,Concordia age,,De Waele 2005,,1952,6,
+CC5,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,29,-14,Georeferenced,Concordia age,,De Waele 2005,,1038,17,
+CC8,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,29,-14,Georeferenced,Concordia age,,De Waele 2005,,1035,12,
+CHL5,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Granite gneiss,Granite gneiss,31,-12,Georeferenced,Concordia age,,De Waele 2005,,1016,17,
+CHT6,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Biotite granite gneiss,Biotite granite gneiss,31,-12,Georeferenced,Concordia age,,De Waele 2005,,1005,7,
+Dwcomp_24,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite (ZAM5),Porphyritic granite (ZAM5),32,-13,Georeferenced,U–Pb SHRIMP zircon,,De Waele (2005),,1041,9,
+Dwcomp_25,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite (ZAM4),Porphyritic granite (ZAM4),32,-13,Georeferenced,U–Pb SHRIMP zircon,,De Waele (2005),,1050,10,
+Dwcomp_26,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite (ZAM3),Porphyritic granite (ZAM3),32,-13,Georeferenced,U–Pb SHRIMP zircon,,De Waele (2005),,1074,3,
+Dwcomp_27,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mafic enclave in Gneiss (ZAM2),Mafic enclave in Gneiss (ZAM2),32,-13,Georeferenced,U–Pb SHRIMP zircon,,De Waele (2005),,1974,18,
+FW1,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,29,-13,Georeferenced,Upper intercept,,De Waele 2005,,1038,58,
+IS20,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Kachinga Tuff,Kachinga Tuff,29,-11,Georeferenced,Concordia age,,De Waele 2005,,1856,4,
+ISK1,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luwalizi Granite Gneiss,Luwalizi Granite Gneiss,32,-10,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1942,6,
+ISK2,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luwalizi Granite Gneiss,Luwalizi Granite Gneiss,32,-10,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1927,10,
+KB5,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Katibunga Basalt,Katibunga Basalt,32,-11,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1871,24,
+KK1,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,28,-14,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1003,31,
+KMP1,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Kapiri Mposhi Granite,Kapiri Mposhi Granite,29,-13,Georeferenced,Upper intercept,,De Waele 2005,,2726,36,
+KN1,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mkushi Gneiss,Mkushi Gneiss,30,-13,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,2036,6,
+KN2A,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,30,-13,Georeferenced,Upper intercept,,De Waele 2005,,1031,14,
+KN5,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Biotite granite gneiss,Biotite granite gneiss,30,-13,Georeferenced,Upper intercept,,De Waele 2005,,1053,14,
+KN7,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,30,-13,Georeferenced,207Pb/206Pb,,De Waele 2005,,1048,10,
+KN8,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Biotite granite gneiss,Biotite granite gneiss,30,-13,Georeferenced,Upper intercept,,De Waele 2005,,1022,16,
+LW1,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Chilubanama Granite,Chilubanama Granite,32,-10,Georeferenced,207Pb/206Pb,,De Waele 2005,,1005,21,
+LW10,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Musalango Gneiss,Musalango Gneiss,32,-11,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1610,26,
+LW2,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luswa Syenite,Luswa Syenite,32,-11,Georeferenced,Concordia age,,De Waele 2005,,943,5,
+MA1,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mansa Granite,Mansa Granite,29,-11,Georeferenced,Upper intercept,,De Waele 2005,,1860,13,
+MA2,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mansa granite,Mansa granite,29,-11,Georeferenced,Concordia age,,De Waele 2005,,1862,8,
+MA3,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mansa Volcanic,Mansa Volcanic,29,-11,Georeferenced,Concordia age,,De Waele 2005,,1868,7,
+MA5,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mansa Volcanic,Mansa Volcanic,29,-11,Georeferenced,Upper intercept,,De Waele 2005,,1862,19,
+MA9,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Musonda Falls Granite,Musonda Falls Granite,29,-11,Georeferenced,Concordia age,,De Waele 2005,,1866,9,
+MH4,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,29,-14,Georeferenced,Concordia age,,De Waele 2005,,1017,19,
+MH9C,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,29,-14,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1029,14,
+MK3,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mkushi Gneiss,Mkushi Gneiss,29,-13,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,2042,10,
+MK5,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mkushi Gneiss,Mkushi Gneiss,29,-13,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,2029,7,
+MK5,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mkushi Gneiss,Mkushi Gneiss,29,-13,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,2050,9,
+MK7,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,29,-13,Georeferenced,207Pb/206Pb,,De Waele 2005,,1035,32,
+ML2,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Lubu Granite Gneiss,Lubu Granite Gneiss,32,-10,Georeferenced,Upper intercept,,De Waele 2005,,1551,33,
+MTG4,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Chilubanama Granite,Chilubanama Granite,32,-10,Georeferenced,Concordia age,,De Waele 2005,,1010,22,
+MTGG1,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mutangoshi Gneissic Granite,Mutangoshi Gneissic Granite,32,-10,Georeferenced,Upper intercept,,De Waele 2005,,1029,9,
+MTGG-2,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mutangoshi Gneissic Granite,Mutangoshi Gneissic Granite,32,-10,Georeferenced,Concordia age,,De Waele 2005,,1055,13,
+ND1,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,29,-13,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1023,7,
+ND2,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Granite gneiss,Granite gneiss,29,-13,Georeferenced,Concordia age,,De Waele 2005,,1627,12,
+ND4,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Granodiorite,Granodiorite,29,-13,Georeferenced,Concordia age,,De Waele 2005,,1031,5,
+ND5,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Syeno-granite,Syeno-granite,29,-13,Georeferenced,Concordia age,,De Waele 2005,,1028,7,
+SASA2,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Sasa Granite,Sasa Granite,30,-13,Georeferenced,Concordia age,,De Waele 2005,,1016,14,
+SER5-3,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,30,-13,Georeferenced,Concordia age,,De Waele 2005,,1034,5,
+SER6-2C,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Lukamfwa Hill Granite Gneiss,Lukamfwa Hill Granite Gneiss,30,-13,Georeferenced,Concordia age,,De Waele 2005,,1664,6,
+SER6-3,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Lukamfwa Hill Granite Gneiss,Lukamfwa Hill Granite Gneiss,30,-13,Georeferenced,Concordia age,,De Waele 2005,,1652,6,
+SER6-4,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Porphyritic granite,Porphyritic granite,30,-13,Georeferenced,Upper intercept,,De Waele 2005,,1036,13,
+SH8,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Lufila Granite,Lufila Granite,32,-11,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1001,44,
+SQG,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Serenje Quarry Granite,Serenje Quarry Granite,30,-13,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1024,9,
+SR12,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Lukamfwa Hill Granite Gneiss,Lukamfwa Hill Granite Gneiss,30,-13,Georeferenced,W.M. 207Pb/206Pb,,De Waele 2005,,1639,14,
+ZAM3,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Chipata Granite,Chipata Granite,,,Georeferenced,U–Pb SHRIMP zircon,,De Waele (2005),,1076,3,
+ZM31,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luswa River Tuff,Luswa River Tuff,32,-10,Georeferenced,Concordia age,,De Waele 2005,,1879,13,
+ZM32,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Chilubanama Granite,Chilubanama Granite,32,-10,Georeferenced,207Pb/206Pb,,De Waele 2005,,946,50,
+ZM36,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mununga Quarry Granite,Mununga Quarry Granite,31,-12,Georeferenced,Concordia age,,De Waele 2005,,1025,10,
+Dwcomp_42,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Nyika Granite,Nyika Granite,33,-10,Georeferenced,U–Pb TIMS bulk zircon,,Dodson et al. (1975),,1932,9,
+Dwcomp_43,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mpande Gneiss,Mpande Gneiss,28,-15,Georeferenced,U–Pb TIMS bulk zircon,,Hanson et al. (1988a),,1106,19,
+Dwcomp_44,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Semahwa Gneiss,Semahwa Gneiss,27,-16,Georeferenced,U–Pb TIMS bulk zircon,,Hanson et al. (1988b),,1198,6,
+Dwcomp_45,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Chilala Gneiss,Chilala Gneiss,27,-16,Georeferenced,U–Pb TIMS bulk zircon,,Hanson et al. (1988b),,1285,64,
+Dwcomp_46,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Zongwe Gneiss,Zongwe Gneiss,27,-16,Georeferenced,U–Pb TIMS bulk zircon,,Hanson et al. (1988b),,1343,6,
+Dwcomp_47,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Siasikabole Granite,Siasikabole Granite,27,-16,Georeferenced,U–Pb TIMS bulk zircon,,Hanson et al. (1988b),,1352,14,
+Dwcomp_49,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Solwezi Granite,Solwezi Granite,25,-12,Georeferenced,U–Pb TIMS single zircon,,John (2001),,1874,9,
+Dwcomp_50,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Kabompo Granite,Kabompo Granite,25,-11,Georeferenced,U–Pb TIMS single zircon,,John (2001),,1884,10,
+Dwcomp_54,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Munali Granite,Munali Granite,29,-15,Georeferenced,U–Pb TIMS single zircons,,Katongo et al. (2004),,1090,1,
+Dwcomp_28,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mwinilunga granite,Mwinilunga granite,,,Georeferenced,U–Pb SHRIMP zircon,,Key et al. (2001),,2538,10,
+Dwcomp_29,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mwinilunga granite,Mwinilunga granite,,,Georeferenced,U–Pb SHRIMP zircon,,Key et al. (2001),,2543,5,
+Dwcomp_30,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mwinilunga granite,Mwinilunga granite,,,Georeferenced,U–Pb SHRIMP zircon,,Key et al. (2001),,2561,10,
+Dwcomp_31,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mwinilunga granite,Mwinilunga granite,24,-11,Georeferenced,U–Pb SHRIMP zircon,,Key et al. (2001),,2058,7,
+Dwcomp_55,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Kabompo Dome granite,Kabompo Dome granite,25,-11,Georeferenced,U–Pb zircon,,Key et al. (2001),,1934,6,
+Dwcomp_56,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Kabompo Dome granite,Kabompo Dome granite,25,-11,Georeferenced,U–Pb zircon,,Key et al. (2001),,1940,3,
+Dwcomp_51,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Kinsenda Granite (Luina dome),Kinsenda Granite (Luina dome),28,-12,Georeferenced,U–Pb TIMS single zircon,,Ngoyi et al. (1991),,1882,23,
+Dwcomp_32,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mkushi Gneiss,Mkushi Gneiss,29,-13,Georeferenced,U–Pb SHRIMP zircon,,Rainaud et al. (2002),,1088,159,
+Dwcomp_33,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Kinsenda Lufubu Schist,Kinsenda Lufubu Schist,28,-12,Georeferenced,U–Pb SHRIMP zircon,,Rainaud et al. (2002),,1873,8,
+Dwcomp_34,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Samba porphyry,Samba porphyry,27,-12,Georeferenced,U–Pb SHRIMP zircon,,Rainaud et al. (2002),,1964,12,
+Dwcomp_35,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Lufubu Schist,Lufubu Schist,28,-12,Georeferenced,U–Pb SHRIMP zircon,,Rainaud et al. (2002),,1970,10,
+Dwcomp_36,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mulungushi Gneiss,Mulungushi Gneiss,28,-14,Georeferenced,U–Pb SHRIMP zircon,,Rainaud et al. (2002),,1976,5,
+Dwcomp_37,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Chambishi Granite,Chambishi Granite,28,-12,Georeferenced,U–Pb SHRIMP zircon,,Rainaud et al. (2002),,1980,7,
+Dwcomp_38,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Chambishi Granite,Chambishi Granite,28,-12,Georeferenced,U–Pb SHRIMP zircon,,Rainaud et al. (2002),,1983,5,
+Dwcomp_39,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mufulira Granite,Mufulira Granite,28,-12,Georeferenced,U–Pb SHRIMP zircon,,Rainaud et al. (2002),,1991,3,
+Dwcomp_40,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mkushi Gneiss,Mkushi Gneiss,29,-13,Georeferenced,U–Pb SHRIMP zircon,,Rainaud et al. (2002),,2049,6,
+Dwcomp_03,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Aplite (Wililo Granite),Aplite (Wililo Granite),33,-9,Georeferenced,Pb evaporation single zircon,,Ring et al. (1997),,983,1,
+Dwcomp_04,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Nyika Granite,Nyika Granite,33,-10,Georeferenced,Pb evaporation single zircon,,Ring et al. (1997),,1969,1,
+Dwcomp_05,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Rumphi Granite,Rumphi Granite,34,-10,Georeferenced,Pb evaporation single zircon,,Ring et al. (1997),,1988,1,
+Dwcomp_06,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Chelinda Granite,Chelinda Granite,33,-10,Georeferenced,Pb evaporation single zircon,,Ring et al. (1997),,1995,1,
+Dwcomp_07,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luromo Granite,Luromo Granite,34,-10,Georeferenced,Pb evaporation single zircon,,Ring et al. (1997),,2002,1,
+Dwcomp_08,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Rumphi Granite,Rumphi Granite,34,-11,Georeferenced,Pb evaporation single zircon,,Ring et al. (1997),,2048,1,
+Dwcomp_09,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luromo Granite,Luromo Granite,34,-10,Georeferenced,Pb evaporation single zircon,,Ring et al. (1997),,2093,1,
+Dwcomp_10,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luromo Granite,Luromo Granite,34,-10,Georeferenced,Pb evaporation single zircon,,Ring et al. (1997),,2224,1,
+Dwcomp_11,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Aplite (Luromo Granite),Aplite (Luromo Granite),34,-10,Georeferenced,Pb evaporation single zircon,,Ring et al. (1999),,977,1,
+Dwcomp_12,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Luromo Granite,Luromo Granite,34,-10,Georeferenced,Pb evaporation single zircon,,Ring et al. (1999),,1108,1,
+Dwcomp_13,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Wililo Granite,Wililo Granite,33,-9,Georeferenced,Pb evaporation single zircon,,Ring et al. (1999),,1115,1,
+Dwcomp_14,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Wililo Granite,Wililo Granite,33,-9,Georeferenced,Pb evaporation single zircon,,Ring et al. (1999),,1116,1,
+Dwcomp_15,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Wililo Granite,Wililo Granite,33,-9,Georeferenced,Pb evaporation single zircon,,Ring et al. (1999),,1118,1,
+Dwcomp_52,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Lwakwa Granite,Lwakwa Granite,33,-9,Georeferenced,U–Pb TIMS single zircon,,Ring et al. (1999),,1087,11,
+Dwcomp_53,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mwenga Granite,Mwenga Granite,33,-9,Georeferenced,U–Pb TIMS single zircon,,Ring et al. (1999),,1119,20,
+Dwcomp_48,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Chipata granulite,Chipata granulite,32,-13,Georeferenced,U–Pb TIMS single monazite,,Schenk and Appel (2001),,1046,3,
+B1,Magmatic,No,,Yes,Africa,Iran,,,,49.323208,33.481085,,,,"Nutman, et al., 2013, CJES-51",,0,,
+B2,Magmatic,No,,Yes,Africa,Iran,,,,50.685417,32.772851,,,,"Nutman, et al., 2013, CJES-51",,0,,
+NM19,Magmatic,No,,Yes,Africa,Israel,,,,34.9231726,29.59084228,,,,"Morag, et al., 2011, PRECAMB-186",,0,,
+NM27,Magmatic,No,,Yes,Africa,Israel,,,,34.91859135,29.56784786,,,,"Morag, et al., 2011, PRECAMB-186",,0,,
+Nam66,Magmatic,No,,Yes,Africa,Namibia,,,,16.866056,-27.865333,,,,"Hofmann, et al., 2014, IJES-103",,0,,
+Nam67,Magmatic,No,,Yes,Africa,Namibia,,,,16.860639,-27.885667,,,,"Hofmann, et al., 2014, IJES-103",,0,,
+S?320M,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.88583333,9.114166667,,,zircon,"Ghosh et al., 2004",,480,100,
+E13.12,Magmatic,No,,Yes,Africa,Ethiopia,,,,35.454,8.945767,,,,"Blades, et al., 2015, PR-270",,584,10,
+NM20,Magmatic,No,,Yes,Africa,Israel,,,,34.91388167,29.59084228,,,,"Morag, et al., 2011, PRECAMB-186",,599,6,
+C182,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Coarse-grained granitic orthogneiss,37.6756716,-5.811906586,,,zircon,Thomas et al. 2016,,607,2,
+NM28,Magmatic,No,,Yes,Africa,Israel,,,,34.92263017,29.59988255,,,,"Morag, et al., 2011, PRECAMB-186",,607,5,
+NM7,Magmatic,No,,Yes,Africa,Israel,,,,34.89848538,29.54844302,,,,"Morag, et al., 2011, PRECAMB-186",,608,3,
+NM18,Magmatic,No,,Yes,Africa,Israel,,,,34.91388167,29.59084228,,,,"Morag, et al., 2011, PRECAMB-186",,611,5,
+NM29,Magmatic,No,,Yes,Africa,Israel,,,,34.92263017,29.59988255,,,,"Morag, et al., 2011, PRECAMB-186",,612,5,
+NM30,Magmatic,No,,Yes,Africa,Israel,,,,34.92263017,29.59988255,,,,"Morag, et al., 2011, PRECAMB-186",,612,6,
+NM32,Magmatic,No,,Yes,Africa,Israel,,,,34.93816768,29.57961644,,,,"Morag, et al., 2011, PRECAMB-186",,612,4,
+HD-30,Magmatic,No,,Yes,Africa,Saudi Arabia,,,,41.201094,23.546969,,,,"Ali, et al., 2014, LITHOS-206",,613,4,
+NM31,Magmatic,No,,Yes,Africa,Israel,,,,34.94588523,29.58865313,,,,"Morag, et al., 2011, PRECAMB-186",,614,15,
+HD-3,Magmatic,No,,Yes,Africa,Saudi Arabia,,,,41.235625,23.567083,,,,"Ali, et al., 2014, LITHOS-206",,625,11,
+NM11,Magmatic,No,,Yes,Africa,Israel,,,,34.9266888,29.62560207,,,,"Morag, et al., 2011, PRECAMB-186",,634,4,
+NM21,Magmatic,No,,Yes,Africa,Israel,,,,34.9350439,29.58998478,,,,"Morag, et al., 2011, PRECAMB-186",,634,4,
+NM12,Magmatic,No,,Yes,Africa,Israel,,,,34.9266888,29.62560207,,,,"Morag, et al., 2011, PRECAMB-186",,642,5,
+NM9,Magmatic,No,,Yes,Africa,Israel,,,,34.93817123,29.57826323,,,,"Morag, et al., 2011, PRECAMB-186",,672,4,
+NM6,Magmatic,No,,Yes,Africa,Israel,,,,34.91661359,29.53016993,,,,"Morag, et al., 2011, PRECAMB-186",,683,10,
+NM15,Magmatic,No,,Yes,Africa,Israel,,,,34.93147377,29.57418998,,,,"Morag, et al., 2011, PRECAMB-186",,705,5,
+DA13-020,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Ambalavao Suite,Granite gneiss,46.76958333,-21.25827778,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,758,10,
+TK64A,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Anaboriana-Manampotsy,Angavo orthogneiss,Orthogneiss,48.19969444,-18.92625,Reported,,Zircon,BGS et al. 2008/Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,764,16,
+RT-07-32,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Ambalavao Suite,Metagranite,47.18822222,-17.06102778,Reported,SHRIMP,Zircon,BGS et al. 2008/Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,768,8,
+DA14-140,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Ikalamavony Domain,Dabolava,Granite,45.89355556,-20.51833333,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,770,21,
+Dwcomp_16,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Ntendele metatonalite,Ntendele metatonalite,33,-10,Georeferenced,Pb evaporation single zircon,,Vrána et al. (2004),,1329,1,
+Dwcomp_17,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Mivula Syenite,Mivula Syenite,33,-10,Georeferenced,Pb evaporation single zircon,,Vrána et al. (2004),,1360,1,
+Dwcomp_18,Magmatic,No,,No,Africa,Africa - Tanzania Craton,Irumide Belt,Biotite metatonalite,Biotite metatonalite,33,-10,Georeferenced,Pb evaporation single zircon,,Vrána et al. (2004),,1961,1,
+DA14-146,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Ikalamavony Domain,Dabolava,Granite,45.53569444,-19.79425,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,774,11,
+WB1451,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Tsaratanana Complex,Foliated granite,47.604,-16.58586111,Reported,,Zircon,BGS et al. 2008/Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,774,16,
+E13.01,Magmatic,No,,Yes,Africa,Ethiopia,,,,36.155067,9.031083,,,,"Blades, et al., 2015, PR-270",,780,22,
+DA13-055,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Itremo Group,Itremo Group,Qtz monzodiorite,47.03583333,-20.62802778,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,780,7,
+E13.03,Magmatic,No,,Yes,Africa,Ethiopia,,,,36.155067,9.031083,,,,"Blades, et al., 2015, PR-270",,782,33,
+NM25,Magmatic,No,,Yes,Africa,Israel,,,,34.90942827,29.52497583,,,,"Morag, et al., 2011, PRECAMB-186",,790,9,
+TN-03,Magmatic,Yes,No,No,India,India - Dharwar Craton,Eastern Dharwar Craton,Near Arcot hills,Granite-gneiss,79.262330,12.914310,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2574,7,
+TN-07,Magmatic,Yes,No,No,India,India - Dharwar Craton,Eastern Dharwar Craton,Near Pallikonda village,Granite,78.970030,12.897030,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2530,9,
+DA13-065,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Imorona-Itsindro,Granite,46.71313889,-20.5755,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,791,17,
+TN-09,Magmatic,Yes,No,No,India,India - Dharwar Craton,Eastern Dharwar Craton,Pachachakupam station,Charnockite,78.758170,12.823420,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2519,14,
+TN-10,Magmatic,Yes,No,No,India,India - Dharwar Craton,Eastern Dharwar Craton,Yelagiri hills,Granite-Syenite,78.632070,12.598640,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,804,7,
+TN-11,Magmatic,Yes,No,Yes,India,India - Dharwar Craton,Eastern Dharwar Craton,Yelagiri hills,Granite-Syenite,78.623470,12.601470,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,821,9,
+TN-05,Magmatic,Yes,No,Yes,India,India - Dharwar Craton,Eastern Dharwar Craton,Near Vellore city,Grt-bearing migmatite,79.188080,12.931690,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2533,10,
+IK-120215-05A,Magmatic,Yes,No,No,India,India - Dharwar Craton,Western Dharwar Craton,Karwar Region,tonalite-trondhjemite-granodiorite,74.169000,14.770000,Georeferenced,SHRIMP,Zircon,Ishwar-Kumar et al. 2013,http://dx.doi.org/10.1016/j.precamres.2013.07.023,3201,5,
+IK-120215-12A,Magmatic,Yes,No,No,India,India - Dharwar Craton,Western Dharwar Craton,Karwar Region,tonalite-trondhjemite-granodiorite,74.286000,14.732000,Georeferenced,SHRIMP,Zircon,Ishwar-Kumar et al. 2013,http://dx.doi.org/10.1016/j.precamres.2013.07.023,3207,4,
+IK-120216-07A,Magmatic,Yes,No,No,India,India - Dharwar Craton,Western Dharwar Craton,Karwar Region,tonalite-trondhjemite-granodiorite,74.252000,14.843000,Georeferenced,SHRIMP,Zircon,Ishwar-Kumar et al. 2013,http://dx.doi.org/10.1016/j.precamres.2013.07.023,3205,50,
+IK-120629-03,Magmatic,Yes,No,No,India,India - Dharwar Craton,Western Dharwar Craton,Gadag Greenstone Belt,Quartzo-feldspathic gneiss,75.524000,15.124000,Georeferenced,SHRIMP,Zircon,Ishwar-Kumar et al. 2013,http://dx.doi.org/10.1016/j.precamres.2013.07.023,2571,2,
+GAD 3,Magmatic,Yes,No,No,India,India - Dharwar Craton,Eastern Dharwar Craton, ,Felsic Volcanics,77.75,16.183,Georeferenced,IMS 1270,Zircon,Jayananda et al. 2013,http://dx.doi.org/10.1016/j.precamres.2012.05.002,2522,54,
+IND 322,Magmatic,Yes,No,No,India,India - Dharwar Craton,Eastern Dharwar Craton, ,Felsic Volcanics,76.783,16.183,Georeferenced,IMS 1270,Zircon,Jayananda et al. 2013,http://dx.doi.org/10.1016/j.precamres.2012.05.002,2569,13,
+PAD 2,Magmatic,Yes,No,No,India,India - Dharwar Craton,Eastern Dharwar Craton, ,Felsic Volcanics,78.5,16.5,Georeferenced,IMS 1270,Zircon,Jayananda et al. 2013,http://dx.doi.org/10.1016/j.precamres.2012.05.002,2400,100,
+PK1-94,Magmatic,Yes,No,No,India,India - Dharwar Craton,Western Dharwar Craton,Gadag Greenstone Belt,Felsic Volcanics,75.642,15.345,Georeferenced,SHRIMP,Zircon,Jayananda et al. 2013,http://dx.doi.org/10.1016/j.precamres.2012.05.002,2598,55,
+PK6-96,Magmatic,Yes,No,No,India,India - Dharwar Craton,Eastern Dharwar Craton, ,Felsic Volcanics,78.276,12.879,Georeferenced,SHRIMP,Zircon,Jayananda et al. 2013,http://dx.doi.org/10.1016/j.precamres.2012.05.002,2554,10,
+PK8-96,Magmatic,Yes,No,No,India,India - Dharwar Craton,Cuddapah Basin, ,Felsic Volcanics,78.133,14.75,Georeferenced,SHRIMP,Zircon,Jayananda et al. 2013,http://dx.doi.org/10.1016/j.precamres.2012.05.002,2556,13,
+VEL 1,Magmatic,Yes,No,No,India,India - Dharwar Craton,Eastern Dharwar Craton, ,Felsic Volcanics,78.411,13.973,Georeferenced,SHRIMP,Zircon,Jayananda et al. 2013,http://dx.doi.org/10.1016/j.precamres.2012.05.002,2692,5,
+PK3-94,Magmatic,Yes,No,No,India,India - Dharwar Craton,Western Dharwar Craton, ,Felsic Volcanics,76.597,14.106,Georeferenced,SHRIMP/TIMS,Zircon,Jayananda et al. 2013,http://dx.doi.org/10.1016/j.precamres.2012.05.002,2665,15,
+WD-4,Magmatic,Yes,No,No,India,India - Dharwar Craton,Western Dharwar Craton,Nuggihalli schist belt,orthogneiss,76.457820,13.034063,Reported,Cameca ims–4f ion microprobe,Zircon,Maibam et al. 2011,http://dx.doi.org/10.1007/s12040-011-0094-1,3091,8,
+WB005,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Tsaratanana Complex,Metarhyolite,48.55558333,-18.97194444,Reported,,Zircon,BGS et al. 2008/Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,793,11,
+DA13-083,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Ambatolampy Group,Granite,47.5645,-18.91433333,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,795,13,
+RK06349,Magmatic,Yes,No,Yes,Madagascar,Madagascar - Antongil-Masora,Masora Domain,Vohilava-Nosivolo Group,Biotite granite gneiss,48.35847222,-21.17291667,Reported,,Zircon,BGS et al. 2008/Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,796,33,
+DA13-063,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Imorona-Itsindro,Quartz syenite,46.75338889,-20.55966667,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,798,8,
+DA13-076,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Anaboriana-Manampotsy,,Granite,48.97616667,-18.90769444,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,813,10,
+RK395,Magmatic,Yes,No,Yes,Madagascar,Madagascar - Antongil-Masora,Masora Domain,,Granodiorite,48.24683333,-21.07866667,Reported,,Zircon,BGS et al. 2008/Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,814,30,
+DA13-017,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Ambatolampy Group,Granodiorite,46.97747222,-21.34613889,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,814,19,
+DA13-064,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Imorona-Itsindro,Granite,46.73097222,-20.55313889,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,819,19,
+PP156,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Tsaratanana Complex,Menazomby Unit quartzofeldspathic leucogneiss ,47.95944444,-17.06669444,Reported,SHRIMP,Zircon,BGS et al. 2008/Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,819,23,
+E13.08,Magmatic,No,,Yes,Africa,Ethiopia,,,,35.625,9.16565,,,,"Blades, et al., 2015, PR-270",,821,17,
+WD-5,Magmatic,Yes,No,No,India,India - Dharwar Craton,Western Dharwar Craton,Nuggihalli schist belt,orthogneiss,76.458670,13.034743,Reported,Cameca ims–4f ion microprobe,Zircon,Maibam et al. 2011,http://dx.doi.org/10.1007/s12040-011-0094-1,3060,8,
+DA13-074,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Anaboriana-Manampotsy,,Granite,49.07633333,-18.82272222,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,821,11,
+S?355M,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,75.75972222,9.325,,,zircon,"Ghosh et al., 2004",,526,2,
+S?318B,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.89888889,9.13,,,zircon,"Ghosh et al., 2004",,526,3,
+S?340,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.83333333,9.268055556,,,zircon,"Ghosh et al., 2004",,526,1,
+DA14-133,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Ikalamavony Domain,Dabolava,Granite,45.87266667,-20.54955556,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,824,23,
+DA13-049,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Imorona-Itsindro,Granite,47.14555556,-20.38102778,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,827,16,
+DA13-029,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Ikalamavony Domain,Ikalamavony Group,Granite,46.72036111,-21.29636111,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,828,14,
+DA13-077,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Anaboriana-Manampotsy,,Granite gneiss,48.43141667,-18.90011111,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,837,15,
+E13.07,Magmatic,No,,Yes,Africa,Ethiopia,,,,35.625,9.16565,,,,"Blades, et al., 2015, PR-270",,841,8,
+WB37,Magmatic,Yes,No,Yes,Madagascar,Madagascar - Antongil-Masora,Masora Domain,,Orthogneiss,48.85033333,-19.91838889,Reported,,Zircon,BGS et al. 2008/Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,843,15,
+NM16,Magmatic,No,,Yes,Africa,Israel,,,,34.91490613,29.59355094,,,,"Morag, et al., 2011, PRECAMB-186",,844,7,
+DA13-012,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Betsiboka Suite,Granodiorite,47.29147222,-20.37125,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,849,17,
+P170,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Porphyroclastic garnet-bearing felsic orthogneiss,35.38758725,-10.43798144,,,zircon,Thomas et al. 2016,,1083,6,
+ASM496C,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Quartz-feldspar-biotite orthogneiss,34.36967868,-9.504718411,,,zircon,Thomas et al. 2016,,1435,5,
+P204,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Pyroxene-bearing felsic orthogneiss,35.00021818,-10.00754538,,,zircon,Thomas et al. 2016,,1796,44,
+ASM573,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Biotite-bearing granitic orthogneiss,33.4916151,-9.52400637,,,zircon,Thomas et al. 2016,,1859,16,
+ASM590,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Biotite-bearing granitic orthogneiss,33.4741106,-9.581924554,,,zircon,Thomas et al. 2016,,1871,8,
+ASM271,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Syenite,33.26431282,-8.169509419,,,zircon,Thomas et al. 2016,,1896,8,
+AMB364,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Coarse-grained diorite,33.06010866,-8.418267919,,,zircon,Thomas et al. 2016,,1919,20,
+ASM470,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Migmatitic biotite-bearing orthogneiss,33.79465413,-8.307840172,,,zircon,Thomas et al. 2016,,1929,15,
+P032,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Hornblende- and pyroxene-bearing gneiss,35.33654398,-10.45150824,,,zircon,Thomas et al. 2016,,1976,18,
+RK225,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Anaboriana-Manampotsy,,Migmatitic Kfs-porphyroclastic aph-bt granitic orthogneiss,48.1746,-17.7401,Reported,SHRIMP/ICP-MS,Zircon,BGS et al. 2008/Armistead et al. 2017,NA,2493,9,
+PEJP435,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Antananarivo Domain,Betsiboka Suite,Coarse-grained bt-bearing charnockitic tonalite,48.2775,-18.6938,Reported,SHRIMP/ICP-MS,Zircon,BGS et al. 2008/Armistead et al. 2017,NA,2512,17,
+S?196A,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.10166667,11.12916667,,,zircon,"Ghosh et al., 2004",,541,3,
+T?4,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.88583333,9.114166667,,,zircon,"Ghosh et al., 2004",,546,29,
+BT06214,Magmatic,Yes,No,Yes,Madagascar,Madagascar - Antongil-Masora,Antongil Domain, ,Granodiorite,49.7676,-15.4786,Reported,SHRIMP/ICP-MS,Zircon,Schofield et al. 2010/Armistead et al. 2017,http://dx.doi.org/10.1016/j.precamres.2010.07.006,2528,3,
+S318A,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.89888889,9.13,,,zircon,"Ghosh et al., 2004",,548,2,
+WB83,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Masindray tonalite,49.98215327,-15.14095236,,,zircon,Bauer et al. 2011,,2355,11,2
+BT30167,Magmatic,Yes,,Yes,Madagascar,Madagascar - Antongil-Masora,A/M,,Granitic augen gneiss,49.1403,-17.3802,,,zircon,Schofield et al. 2010,,2531,16,2
+BT/06/2/14,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Granodiorite,49.7676,-15.4786,,,zircon,BGS et al. 2008,,2528,3,2
+DS30529,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,qtz+bt+ms+ schist,49.5886,-16.9249,,,zircon,BGS et al. 2008,,2511,10,2
+DS30530,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,qtz+bt+ms+ schist,49.5886,-16.9249,,,zircon,BGS et al. 2008,,2522,11,2
+PP579,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Granitogneiss,48.327,-20.0846,,,zircon,BGS et al. 2008,,3233,7,2
+PP579,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Granitogneiss,48.327,-20.0846,,,zircon,BGS et al. 2008,,3205,14,2
+PP579,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Granitogneiss,48.327,-20.0846,,,zircon,BGS et al. 2008,,3105,8,2
+PP580,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Granodiorite,48.362,-20.0835,,,zircon,BGS et al. 2008,,825,15,2
+RK06-374,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Gneiss Quartzo-Feldspathique,47.9225,-21.2927,,,zircon,BGS et al. 2008,,631,7,2
+RT06-306,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Métadiorite,48.355,-20.0853,,,zircon,BGS et al. 2008,,837,12,2
+RT06-327,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Métadiorite,48.3535,-20.2195,,,zircon,BGS et al. 2008,,829,5,2
+BT30167,Magmatic,Yes,No,Yes,Madagascar,Madagascar - Antongil-Masora,Antongil Domain,Ambodiriana Group,Granitic augen gneiss,49.1403,-17.3802,Reported,SHRIMP/ICP-MS,Zircon,Schofield et al. 2010/Armistead et al. 2017,http://dx.doi.org/10.1016/j.precamres.2010.07.006,2531,16,
+BT06270,Magmatic,Yes,No,Yes,Madagascar,Madagascar - Antongil-Masora,Antongil Domain,Masoala Suite,Potassic granite,50.3434,-15.2989,Reported,SHRIMP/ICP-MS,Zircon,Schofield et al. 2010/Armistead et al. 2017,http://dx.doi.org/10.1016/j.precamres.2010.07.006,2532,7,
+WD-6,Magmatic,Yes,No,No,India,India - Dharwar Craton,Western Dharwar Craton,Nuggihalli schist belt,orthogneiss,76.299547,13.341923,Reported,Cameca ims–4f ion microprobe,Zircon,Maibam et al. 2011,http://dx.doi.org/10.1007/s12040-011-0094-1,3067,9,
+SI10-62,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Pegmatite,78.17127778,11.34477778,,,zircon,Plavsa 2015,,554,9,
+MJY-08-11,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Cross-cutting pegmatite,47.9858,-21.0767,,,zircon,BRGM-USGS,,530,50,2
+RT-02M-105B,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Pegmatite,47.8172,-21.1955,,,zircon,BRGM-USGS,,520,50,2
+RT-02O-58,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Metagabbro,49.12051314,-17.7618606,,,zircon,BRGM-USGS,,800,50,2
+BM04,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Orthogneiss granitique,49.7734,-16.1774,,,zircon,Paquette et al.  2003,,2513,0.4,2
+BM07,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Orthogneiss granitique,49.6959,-16.072,,,zircon,Paquette et al.  2003,,2522.7,0.3,2
+BM09,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Orthogneiss granitique,49.6959,-16.072,,,zircon,Paquette et al.  2003,,2532.1,0.3,2
+BT30202,Magmatic,Yes,,Yes,Madagascar,Madagascar - Antongil-Masora,A/M,,Dacitic greenschist,49.6982,-16.1065,,,zircon,BGS et al. 2008,,2541,9,2
+DS30509,Magmatic,Yes,No,No,Madagascar,Madagascar - Antongil-Masora,Antongil Domain,Fenoarivo Group,leucogranite,49.541500,-17.019100,Reported,,Zircon,Schofield et al. 2010,http://dx.doi.org/10.1016/j.precamres.2010.07.006,3176,6,
+BT/06/2/70,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Potassic granite,50.3434,-15.2989,,,zircon,Schofield et al. 2010,,2532,7,2
+BT/06/P2/62,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Metagabbro,50.2405,-15.3086,,,zircon,Schofield et al. 2010,,2147,6,2
+BT30192,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Bi-hb tonalitic orthogneiss,49.8271,-16.4042,,,zircon,Schofield et al. 2010,,2546,11,2
+DS30507,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,granitic migmatite gneiss,49.5315,-17.0503,,,zircon,Schofield et al. 2010,,3176,5,2
+GW126,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,granite,50.0274,-14.9074,,,zircon,Schofield et al. 2010,,2546,10,2
+MH073,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Granitogneiss,49.1463,-18.0806,,,zircon,Schofield et al. 2010,,3352,8,2
+BT30202,Magmatic,Yes,No,Yes,Madagascar,Madagascar - Antongil-Masora,Antongil Domain,Mananara Group,Dacitic greenschist,49.6982,-16.1065,Reported,SHRIMP/ICP-MS,Zircon,BGS et al. 2008/Armistead et al. 2017,NA,2541,9,
+TN-24,Magmatic,Yes,No,Yes,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System,Sankari-Tiruchengode,Granite,77.896600,11.500990,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,559,4,
+IA11-87,Magmatic,No,No,Yes,India,India - Dharwar Craton,Western Dharwar Craton,Gadag Greenstone Belt,Deformed Granite,75.656941,15.373058,Georeferenced,SHRIMP,Zircon,Mohan et al. 2014,http://dx.doi.org/10.1016/j.precamres.2013.12.017,2552,6,
+LA-307b,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Gneiss tonalitique à biotite. Magmatic tonalite,49.9172,-16.8473,,,zircon,Tucker et al. 1999,,3187,2,2
+LA-308,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Granite à biotite déformé intrusif in 307b.,50.0134,-16.7264,,,zircon,Tucker et al. 1999,,2522,4,2
+ALF-6,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Metagabbro,48.208,-20.437,,,zircon,Tucker et al. 2011a,,806,8,2
+RT-02M-105A,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Tonalite,47.8172,-21.1955,,,zircon,Tucker et al. 2011a,,3313,8,2
+RT-02O-52A,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Tonalite,48.9772,-17.7475,,,zircon,Tucker et al. 2011a,,3231,6,2
+RT-02O-76,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Tonalite,47.2722,-17.701,,,zircon,Tucker et al. 2011a,,3320,14,2
+TAM-08-09A,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Metarhyolite,49.5452,-17.0119,,,zircon,Tucker et al. 2011a,,3178,2,2
+TAM-08-09D,Magmatic,No,,No,Madagascar,Madagascar - Antongil-Masora,A/M,,Granitic dyke,49.5452,-17.0119,,,zircon,Tucker et al. 2011a,,2502,8,2
+IA11-94,Magmatic,No,No,Yes,India,India - Dharwar Craton,Western Dharwar Craton,Gadag Greenstone Belt,coarse-grained granitoid,75.721379,15.295128,Georeferenced,SHRIMP,Zircon,Mohan et al. 2014,http://dx.doi.org/10.1016/j.precamres.2013.12.017,2556,11,
+S?268,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.76666667,11.5,,,zircon,"Ghosh et al., 2004",,563,9,
+IA11-121,Magmatic,No,No,Yes,India,India - Dharwar Craton,Western Dharwar Craton, ,Granite,75.151777,15.206687,Georeferenced,SHRIMP,Zircon,Mohan et al. 2014,http://dx.doi.org/10.1016/j.precamres.2013.12.017,2565,9,
+KLR6B,Magmatic,No,No,Yes,India,India - Dharwar Craton,Eastern Dharwar Craton, ,quartz diorite,78.223750,12.970444,Reported,ICP-MS,Zircon,Yang et al. 2015,http://dx.doi.org/10.1016/j.jseaes.2015.05.023,2564,13,
+KLR6A,Magmatic,No,No,Yes,India,India - Dharwar Craton,Eastern Dharwar Craton, ,porphyritic granite,78.223750,12.970444,Reported,ICP-MS,Zircon,Yang et al. 2015,http://dx.doi.org/10.1016/j.jseaes.2015.05.023,2576,10,
+KLR-3,Magmatic,No,No,Yes,India,India - Dharwar Craton,Eastern Dharwar Craton, ,"aphibolite, metavolcanic",78.239000,12.946944,Reported,ICP-MS,Zircon,Yang et al. 2015,http://dx.doi.org/10.1016/j.jseaes.2015.05.023,2581,31,
+102_051,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Very coarse-grained syenite,35.47874866,-6.829709793,,,zircon,Thomas et al. 2016,,2612,14,
+AMB14,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Coarse-grained granitic orthogneiss,35.73879607,-5.049913893,,,zircon,Thomas et al. 2016,,2635,10,
+AMB213,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Dark-coloured coarse-grained granitic orthogneiss,34.76041046,-5.012137683,,,zircon,Thomas et al. 2016,,2651,5,
+F024,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Coarse-grained charnockite,37.88249277,-5.749095025,,,zircon,Thomas et al. 2016,,2670,6,
+SK106,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Granite dyke,37.76235386,-5.956142348,,,zircon,Thomas et al. 2016,,2673,12,
+ASM108,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Banded garnet-bearing felsic granulite gneiss,35.83425299,-6.320120659,,,zircon,Thomas et al. 2016,,2674,14,
+RK449,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Anaboriana-Manampotsy,Manampotsy Group,Migmatitic biotite-gneiss,47.7448,-21.0714,Reported,SHRIMP/ICP-MS,Zircon,BGS et al. 2008/Armistead et al. 2017,NA,2675,9,
+FMP78AW,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Granite,35.59553955,-6.693720887,,,zircon,Thomas et al. 2016,,2678,34,
+SK256,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Granitic dyke,34.35685077,-4.834044214,,,zircon,Thomas et al. 2016,,2683,19,
+S?415,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.04444444,9.738888889,,,zircon,"Ghosh et al., 2004",,568,2,
+DA13-056,Magmatic,Yes,No,No,Madagascar,Madagascar - central,Itremo Group,Itremo Group,Granite,47.00255556,-20.56163889,Reported,ICP-MS,Zircon,Archibald et al. 2016,http://dx.doi.org/10.1016/j.precamres.2016.05.014,822,28,
+PP1535,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Charnockitic granodiorite with faint undulose banding,47.5572,-16.9049,,,zircon,BGS et al. 2008,,2715,50,2
+PP429a,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Orthogneiss,47.7691,-19.6071,,,zircon,BGS et al. 2008,,2709,42,2
+PP737a,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Gneiss à Biotite-Amphibole,48.7512,-18.9775,,,zircon,BGS et al. 2008,,2508,6,2
+PP-D112,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Métagranodiorite,47.8268,-16.991,,,zircon,BGS et al. 2008,,2651,16,2
+PPD156,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granitogneiss,47.7366,-17.0672,,,zircon,BGS et al. 2008,,2485,13,2
+WB223,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Migmatitic plagioclase-biotite-amphibole orthogneiss,48.2348,-19.0231,,,zircon,BGS et al. 2008,,2539,9,2
+BT30156,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,"Coarse-grained, bt-bearing granitic augen gneiss",47.9247,-15.6861,,,zircon,BGS et al. 2008,,731,13,2
+BT30162,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Coarse-grained leucocratic biotite-bearing granitic orthogneiss,47.6863,-16.1096,,,zircon,BGS et al. 2008,,816,8,2
+PP65,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Diorite,46.4584,-17.2651,,,zircon,BGS et al. 2008,,769,8,2
+PPD112,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Métagranodiorite,47.8268,-16.991,,,zircon,BGS et al. 2008,,779,16,2
+PP-D135,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite Alcalin,47.8138,-17.0668,,,zircon,BGS et al. 2008,,575,16,2
+RK/06/174,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Brickaville migmatite,48.9504,-19.0005,,,zircon,BGS et al. 2008,,838,7,2
+RK250A,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Biotite granite with xenoliths,48.0315,-18.063,,,zircon,BGS et al. 2008,,553,10,2
+RS07-152,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Métagranodiorite,48.9426,-18.6599,,,zircon,BGS et al. 2008,,823,6,2
+RS240A,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granitoid gneiss,47.5696,-20.1856,,,zircon,BGS et al. 2008,,776,4,2
+WB004,Magmatic,No,,No,Madagascar,Madagascar - central,ANt,,Quartzofeldspathic gneiss,48.3212,-18.9889,,,zircon,BGS et al. 2008,,800,5,2
+WB0926,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Métagranite,47.8823,-18.5698,,,zircon,BGS et al. 2008,,540,8,2
+WB926,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Kfs-porphyritic garnet-amphibole gneissose monzogranite,47.9294,-18.5706,,,zircon,BGS et al. 2008,,540,8,2
+BDW417,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Gneiss à Amphibole-Biotite,47.6669,-16.5264,,,zircon,BGS et al. 2008,,551,5,2
+RT07-029,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Métagranite alcalin,47.2371,-17.0841,,,zircon,BGS et al. 2008,,759,5,2
+WB2412,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Tonalitic orthogneiss,48.1073,-14.9355,,,zircon,BGS et al. 2008,,551,6,2
+AMB203,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Dark tonalitic orthogneiss,34.60090195,-4.681115916,,,zircon,Thomas et al. 2016,,2685,17,
+AMB120,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Coarse-grained granitic orthogneiss,35.66941031,-6.547051475,,,zircon,Thomas et al. 2016,,2693,56,
+102_005,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Coarse-grained porphyritic granite,34.68743551,-5.109313277,,,zircon,Thomas et al. 2016,,2700,18,
+AMB178_58,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Felsic metavolcanic greenschist,32.25984168,-6.358710208,,,zircon,Thomas et al. 2016,,2725,22,
+SK553,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Granite dyke,37.43630053,-5.878005252,,,zircon,Thomas et al. 2016,,2727,12,
+AMB238,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Coarse-grained hornblende-bearing granite,33.16791428,-8.411796371,,,zircon,Thomas et al. 2016,,2732,5,
+FMP106,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Granodioritic orthogneiss,34.4862446,-4.317639217,,,zircon,Thomas et al. 2016,,2740,12,
+SK390,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Medium-grained granodiorite,34.6119367,-4.406503323,,,zircon,Thomas et al. 2016,,2742,6,
+MS?3,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.96027778,11.2775,,,zircon,"Ghosh et al., 2004",,601,1,
+ADR032,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Gneiss enderbitique et/ou charnokitique leucocrate à intermédiaire à faciès malgachitique,47.5211,-17.4343,,,zircon,BRGM,,2450,13,2
+APD026,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,"Migmatite rubannée et granitoïde migmatitique à biotite, amphibole",47.8322,-17.3591,,,zircon,BRGM,,2443,29,2
+LDK035,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Orthogneiss porphyroïde mylonitique,47.1576,-17.3943,,,zircon,BRGM,,2448,9,2
+MNK027,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,"Gneiss migmatitique a biotite, amphibole ± clinopyroxène",47.491,-17.7421,,,zircon,BRGM,,2453,4,2
+MNK029,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,"Gneiss migmatitique a biotite, amphibole ± clinopyroxène",47.5287,-17.7244,,,zircon,BRGM,,2636,6,2
+MNK019,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite leucocrate à biotite,47.4337,-17.7985,,,zircon,BRGM,,595,10,2
+MNK025,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Orthogneiss granodioritique a dioritique,47.4528,-17.7399,,,zircon,BRGM,,812,6,2
+TSD007,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,"Migmatite rubannée et granitoïde migmatitique à biotite, amphibole",47.1782,-17.6588,,,zircon,BRGM,,512,5,2
+MAE-1004,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Stratoid granite,47.0221,-17.848,,,zircon,BRGM-USGS,,520,50,2
+MJY-08-45B,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Pegmatite,47.7345,-21.348,,,zircon,BRGM-USGS,,520,50,2
+ITR-1001A,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Boudinaged granitic vein,47.003,-20.5619,,,zircon,BRGM-USGS,,783,19,2
+PD06032,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,10. Migmatitic bt gneiss - Miako or Tana or Ikalamavony ?,45.5171,-18.979,,,zircon,CGS 2009,,2465,20,2
+PF06056,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,2. Miako Gneiss – leucosome (6),45.2509,-17.3665,,,zircon,CGS 2009,,2500,21,2
+PF06078,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,1. Miako Gneiss - hbl-plag gneiss: paleosome (7),45.1157,-17.3417,,,zircon,CGS 2009,,2529,9,2
+PF06078,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,1. Miako Gneiss - hbl-plag gneiss: paleosome (7),45.1157,-17.3417,,,zircon,CGS 2009,,2477,8,2
+PF06104,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,3. Ambohipaky amphibolite (1),45.2132,-17.1214,,,zircon,CGS 2009,,2485,10,2
+BY6163,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,15. Vavavato Granite gneiss,46.9212,-19.764,,,zircon,CGS 2009,,792,5.7,2
+PF06087,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,6. Granitoid orthogneiss,45.3687,-17.1256,,,zircon,CGS 2009,,788,11,2
+PF06090,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,7. Beda Gabbro orthogneiss (4),45.39,-17.0864,,,zircon,CGS 2009,,791.9,5.4,2
+BY05049,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,16. PA Porphyritic granite,45.5598,-19.3508,,,zircon,CGS 2009,,526.7,5,2
+PD05063,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,14. Ambatodradama granitic gneiss 1,46.1307,-19.6919,,,zircon,CGS 2009,,803,5.5,2
+PD06035 ,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,13. Ambatomiefy diorite gneiss,45.5588,-19.0071,,,zircon,CGS 2009,,800.5,7.2,2
+PF06029,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,5. Ambatomiefy diorite gneiss (3),45.089,-17.4481,,,zircon,CGS 2009,,851.6,6.4,2
+PF06040,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,8. Sheared monzonitic dyke (5b),45.254,-17.2654,,,zircon,CGS 2009,,801.8,7.5,2
+PF06113,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,Q-F Bt gneiss,45.2945,-17.1661,,,zircon,CGS 2009,,793.6,8.4,2
+PF06141,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,9. PA Porphyritic granite (8),45.1343,-17.1406,,,zircon,CGS 2009,,772,4.9,2
+M98-50,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss biotite-horblende W. Kianjavato - 551 ± 2 Ma Metamorphic,47.8569,-21.3783,,,zircon,Collins 2003,,811,50,2
+BSC_0576_00,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,Amborompotsy granite - Imorona suite,46.2203,-20.5949,,,zircon,GAF-BGR 2008,,794,16,2
+BSC_0578_00,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,Amborompotsy orthogneiss - Dabalavo suite,46.151,-20.5988,,,zircon,GAF-BGR 2008,,926,13,2
+SBO_0921_00,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Imorona granite,47.3463,-23.7009,,,zircon,GAF-BGR 2008,,776,41,2
+SBO_1492_00,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Antoetra granite,46.9045,-20.6394,,,zircon,GAF-BGR 2008,,780,14,2
+SBO_1516_00,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Intermediate orthogneiss,46.5113,-20.5972,,,zircon,GAF-BGR 2008,,771,4,2
+BT/07/12,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granodioritic orthogneiss,48.4581,-14.5487,,,zircon,Goodenough et al. 2010,,531,5,2
+BT/07/22,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Monzogranite,48.3935,-14.643,,,zircon,Goodenough et al. 2010,,522,6,2
+BT/07/25,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Felsic gneiss,48.3565,-14.6642,,,zircon,Goodenough et al. 2010,,527,5,2
+9171,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Charnockite du socle -  Zrc non datés à 2.5-3.0 Ga,47.4232,-17.4813,,,zircon,"Guerrot, 1991",,770,20,2
+9073,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,"Pyroxénite, intrusions basiques-ub, Bemongikely",47.4232,-17.4813,,,zircon,"Guerrot, 1991",,787,16,2
+9075,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Granite lié aux intrusions basiques-ub,47.4232,-17.4813,,,zircon,"Guerrot, 1991",,777,13,2
+9102,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Biotitite,47.4232,-17.4813,,,zircon,"Guerrot, 1991",,777,16,2
+9172,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Granite post-intrusions -  Zrc non datés à 2.3-3.2 Ga,47.4232,-17.4813,,,zircon,"Guerrot, 1991",,762,17,2
+9173,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Charnockite du socle -  Zrc non datés à 2.4-3.3 Ga,47.4232,-17.4813,,,zircon,"Guerrot, 1991",,787,9,2
+MH-95I-20,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Gabbro Itsindro,46.9645,-20.509,,,zircon+baddeleyite,Handke et al.  1999,,790.1,0.9,2
+MH-95A-108,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Orthogneiss granitique à biotite, W. Itremo",46.5714,-20.6255,,,zircon,Handke et al.  1999,,785.1,2.2,2
+MH-95A-109,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Leptynite, Leptynite W. Itremo",46.5042,-20.6292,,,zircon,Handke et al.  1999,,780.8,2.2,2
+MH-95A-16,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Granite Ambohitsaony, Sud Ambato",46.8109,-20.4326,,,zircon,Handke et al.  1999,,792.4,1.7,2
+HAN_1999_3,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Gabbro Ranomandry,46.8625,-20.0304,,,baddeleyite,"Handke et al. , 1999",,790,1,2
+HAN_1999_108,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Orthogneiss granitique Ë biotite, W. Itremo",46.5714,-20.6255,,,zircon,"Handke et al. , 1999",,785,2,2
+HAN_1999_109,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Leptynite, Leptynite W. Itremo",46.5042,-20.6292,,,zircon,"Handke et al. , 1999",,781,2,2
+HAN_1999_106,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Gabbro Ifasina,46.6865,-20.5549,,,baddeleyite,Handke et al. 1999,,791,1,2
+HAN_1999_17,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Gabbro Ambohitsaony, Sud Ambato",46.7786,-20.6351,,,baddeleyite,Handke et al. 1999,,793,2,2
+MH-96I-46,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Orthogneiss granitique Ilaka,47.1606,-20.3927,,,zircon,Handke et al. 1999,,795,8,2
+HAN_1999_06,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Ranomandry granite,46.8578,-20.0666,,,zircon,Handke et al. 1999,,792,2,2
+HAN_1999_136,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Orthogneiss granitique Ranofotsy, Est Imorona",46.7246,-20.4283,,,zircon,Handke et al. 1999,,797,5,2
+HAN_1999_16,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Granite Ambohitsaony, Sud Ambato",46.8017,-20.6052,,,zircon,Handke et al. 1999,,792,2,2
+HAN_1999_64,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Imorona Granite (east), Sud Ambato",46.8258,-20.6477,,,zircon,Handke et al. 1999,,791,1,2
+MH-95A-106,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Gabbro Ifasina,46.6865,-20.5549,,,zircon,Handke et al. 1999,,791.2,0.8,2
+MH-95A-17,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Gabbro Ambohitsaony, Sud Ambato",46.9794,-20.6355,,,zircon,Handke et al. 1999,,793.1,1.5,2
+MH-95R-3,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Gabbro Ranomandry,46.8625,-20.0304,,,zircon,Handke et al. 1999,,790.1,1.1,2
+MH-96I-64B,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Granite à biotite d' Ambalavao, Sud Ambato",46.8258,-20.6477,,,zircon,Handke et al. 1999,,791.4,1.3,2
+MH-96R-6B,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Orthogneiss granitique Ranomandry,46.8578,-20.0666,,,zircon,Handke et al. 1999,,792.2,1.7,2
+RC-136,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Orthogneiss granitique Ranofotsy, Est Imorona",46.7246,-20.4283,,,zircon,Handke et al. 1999,,797,5,2
+21323,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Age protolithe d'un biotite-orthogneiss -  metamorphisme a 785 ± 7 Ma,47.4721,-16.9723,,,zircon,Kabete et al.  2006,,2483,20,2
+67-04,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,protolithe d'un granulite mafique -  Xenocryst 2725 Ma -  metamorphisme 2465-2390 Ma,47.4721,-16.9723,,,zircon,Kabete et al.  2006,,2676,6,2
+Mad 103,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss biotite-horblende granodioritique,47.2333,-20.5514,,,zircon,Kröner  et al. 2000,,2514,6,2
+Mad 69,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Orthogneiss à biotite-hornblende,48.5666,-18.9677,,,zircon,Kroner 2000,,2528,19,2
+Mad 40,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,"Charnockite, Ambositra -  âge de la syénite anté-charnockite -  VD zircon UI=789 ± 27 Ma",47.2328,-20.4538,,,zircon,Kröner et al. 1999,,789,27,2
+Mad 54,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite de Carion -  Zircon hérité à 2025 Ma,47.7502,-18.9011,,,zircon,Kröner et al. 1999,,556,1.7,2
+Mad 44,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Orthogneiss (GM) à biotite, N. Ambositra -  âge mise en place granite",47.1654,-20.4089,,,zircon,Kröner et al. 1999,,650.9,0.9,2
+Mad 65,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss Q-dioritique -  Zrc à 713 et 555 Ma,48.2662,-18.9419,,,zircon,Kröner et al. 2000,,2510,0.3,2
+Mad 65,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss Q-dioritique -  Zrc à 713 et 555 Ma,48.2662,-18.9419,,,zircon,Kröner et al. 2000,,2508,13,2
+Mad 89,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Gneiss granodioritique 7 km NW Faratsiho,46.9608,-19.3975,,,zircon,Kröner et al. 2000,,2551,5,2
+M-1,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite,47.1493,-20.6511,,,zircon,Kröner et al. 2000,,589.1,1,2
+Mad 102,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granitoide non déformé,47.1934,-20.4413,,,zircon,Kröner et al. 2000,,554.4,1,2
+Mad 104,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss granitique à biotite -  Zrc à 1118 et 2188 Ma,47.2,-20.6175,,,zircon,Kröner et al. 2000,,551,1,2
+Mad 107,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss charnockitique,47.5633,-18.9177,,,zircon,Kröner et al. 2000,,749.8,0.9,2
+Mad 108,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Dyke granitique,47.5633,-18.9177,,,zircon,Kröner et al. 2000,,517.8,1,2
+Mad 117,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Orthogneiss granitique à biotite -  Zrc à 1057 Ma,47.4798,-18.7708,,,zircon,Kröner et al. 2000,,719.3,0.4,2
+Mad 50,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss enderbitic -  Zrc à 1636 Ma -  Zrc métamorphique à 550 Ma,47.7169,-18.8841,,,zircon,Kröner et al. 2000,,739.5,0.9,2
+Mad 60,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Charnockite -  Zrc à 1052 Ma,47.5708,-18.9013,,,zircon,Kröner et al. 2000,,741.2,0.9,2
+Mad 61,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss charnockitique,47.5708,-18.9013,,,zircon,Kröner et al. 2000,,742.6,0.9,2
+Mad 62,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Charnockite dans Carion -  Zrc à 1007 Ma,47.7169,-18.8841,,,zircon,Kröner et al. 2000,,788.5,0.9,2
+Mad 63,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite de Carion,47.7502,-18.9011,,,zircon,Kröner et al. 2000,,537.6,1,2
+Mad 64,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss Q-dioritique Angavo,47.9327,-18.9178,,,zircon,Kröner et al. 2000,,818,6,2
+Mad 66,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Orthogneiss granitique oeillé,48.4169,-18.9178,,,zircon,Kröner et al. 2000,,774,0.9,2
+Mad 67,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Orthogneiss granitique oeillé,48.4665,-18.9345,,,zircon,Kröner et al. 2000,,750,0.9,2
+Mad 68,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Orthogneiss granitique oeillé,48.4665,-18.9345,,,zircon,Kröner et al. 2000,,789,0.9,2
+Mad 73,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss granitique gris recoupé par M74,49.0669,-18.7175,,,zircon,Kröner et al. 2000,,792.2,0.9,2
+Mad 74,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss granitique à grenat,49.0669,-18.7175,,,zircon,Kröner et al. 2000,,791.1,0.9,2
+Mad 76,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss Q-syénitique,48.8085,-18.9513,,,zircon,Kröner et al. 2000,,788.8,0.9,2
+Mad 78,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Charnockite Ivato -  Zircon hérité à 2524 Ma,47.4581,-18.7963,,,zircon,Kröner et al. 2000,,801,2,2
+Mad 79,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite un peu folié -  Zrc à 751 et 1735 Ma,47.4163,-18.7847,,,zircon,Kröner et al. 2000,,554.4,1,2
+Mad 80,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Gneiss charnockitique,47.2868,-18.6986,,,zircon,Kröner et al. 2000,,763.7,0.9,2
+Mad 88,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss oeillé à biotite W Faratsiho,46.9131,-19.3525,,,zircon,Kröner et al. 2000,,758.3,0.9,2
+Mad 99,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Monzonite Q -  Zrc à 2502 Ma et 1185 Ma,47.0368,-20.0959,,,zircon,Kröner et al. 2000,,770,18,2
+"Meert et al., 2001",Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Carion Granite,47.4533,-18.5693,,,zircon,"Meert et al., 2001",,532.1,5.2,2
+BM-127-95,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,gabbro,46.03221667,-22.02055,,,zircon,Müller 2000,,982.3,2.9,2
+BM-3/C-97,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,leptynite,46.29,-22.49,,,zircon,Müller 2000,,956,40,2
+MG132,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite Ambatomiranty (âge minimum) -  scelle la virgation de Tana (LI),47.5435,-19.085,,,zircon,Paquette & Nedelec  1998,,561,4,2
+MG14,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite stratoïde -  juvénile,47.0184,-17.8662,,,zircon,Paquette & Nedelec  1998,,632,2,2
+MG65,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite stratoïde -  crustal -  Zr hérités à 2200-2400 Ma,47.236,-18.5858,,,zircon,Paquette & Nedelec  1998,,627,2,2
+MG93,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite stratoïde -  juvénile,47.1131,-17.9373,,,zircon,Paquette & Nedelec  1998,,633,1,2
+Raoelison 1997,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,"Orthogneiss granitique, Amborompotsy",46.4332,-20.6057,,,zircon,Raoelison 1997,,776.6,50,2
+GW175,Magmatic,No,,No,Madagascar,Madagascar - central,Q/,,Metagranodiorite,50.1598,-15.0265,,,zircon,Schofield et al. 2010,,2542,7,2
+C,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,"Orthogneiss dioritique, Ampitomita, W-SW Mahaiza",46.7294,-19.9475,,,zircon,Tucker  et al. 2007,,784,2,2
+C,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,Andaingo diorite gneiss,46.7294,-19.9475,,,zircon,Tucker  et al. 2007,,784,2,2
+E,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,"Orthogneiss gabbro, Mania, Malaikavaratsy",46.2887,-20.049,,,zircon,Tucker  et al. 2007,,786,16,2
+G,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,"Orthogneiss anorthositique, Mania, Malaikavaratsy",45.8193,-20.001,,,zircon,Tucker  et al. 2007,,793,5,2
+G,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,"Gabbro Anorthosite, Mania river",45.8193,-20.001,,,zircon,Tucker  et al. 2007,,793,5,2
+I,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,Miandrivaso gabbro gneiss,45.531,-19.5858,,,zircon,Tucker  et al. 2007,,982,2,2
+O,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,"Filon granititique, Mania, Malaikavaratsy",46.2887,-20.049,,,zircon,Tucker  et al. 2007,,543,3,2
+B,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Orthogneiss granitique à biotite d' Andohamaho, Est Itremo",47.1184,-20.4019,,,zircon,Tucker  et al. 2007,,789,2,2
+J,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Faliarivo granite,46.6884,-19.981,,,zircon,Tucker  et al. 2007,,537,4,2
+K,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Granite Vohimavo,46.8488,-20.2961,,,zircon,Tucker  et al. 2007,,542,3,2
+RT-121a,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Antanatikely Tonalite gneiss,46.6756,-19.7416,,,zircon,"Tucker 1997-1999; Handke, 2001",,2503,5,2
+H,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,Dabolava diorite gneiss,45.6928,-19.6679,,,zircon,Tucker et al.  2002,,1013,3,2
+D,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,"Orthogneiss gabbroïque, Kamaroa, Mania, W Lazarivo",46.3088,-20.1375,,,zircon,Tucker et al.  2007,,784,6,2
+H,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,"Orthogneiss dioritique, Dabolava",45.6928,-19.6679,,,zircon,Tucker et al.  2007,,1013,3,2
+I,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,"Orthogneiss gabbroïque, Miandrivazo",45.531,-19.5858,,,zircon,Tucker et al.  2007,,982,2,2
+J,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Granite Faliarivo,46.6884,-19.981,,,zircon,Tucker et al.  2007,,537,4,2
+M,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Granite, Andringitra, Sud Antoetra",46.8532,-20.8093,,,zircon,Tucker et al.  2007,,539,2,2
+N,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,"Granite, Vohitrakidahy",47.013,-20.6381,,,zircon,Tucker et al.  2007,,546,2,2
+LA-300D,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Amphibolite à biotite in 300b,47.4578,-19.3674,,,zircon,Tucker et al. 1999,,2515,2,2
+LA-300e,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss charnockite in 300b,47.4578,-19.3674,,,zircon,Tucker et al. 1999,,2505,6,2
+MH-51,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss tonalitique à biotite (âge voisin du magmatisme),47.0031,-20.5613,,,zircon,Tucker et al. 1999,,2511,3,2
+MLG-17,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Gneiss gabbroique à biotite et hornblende,46.6728,-17.0868,,,zircon,Tucker et al. 1999,,2518,5,2
+RT-121a,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss tonalitique à biotite-horblende,46.6756,-19.7416,,,zircon,Tucker et al. 1999,,2503,5,2
+RT-76b,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,"gneiss oeillé à biotite  -  pont Betsiboka, donc Unité At",46.9468,-16.9371,,,zircon,Tucker et al. 1999,,2514,2,2
+LA-300a,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Granite rose équant -  Zrc à 1863 et 1325 Ma,47.4578,-19.3674,,,zircon,Tucker et al. 1999,,540,3,2
+LA-300b,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,gneiss syénitique à cpx -  2 Zrc à 2590 Ma,47.4578,-19.3674,,,zircon,Tucker et al. 1999,,790,2,2
+RT-78,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Gneiss tonalitique à biotite,46.8182,-16.9518,,,zircon,Tucker et al. 1999,,2502,4,2
+RT-96b,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Gneiss gabbroique à hornblende -  âge du gabbro,48.75,-18.9782,,,zircon,Tucker et al. 1999,,2494,4,2
+RT-99,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Gneiss granodiorite à biotite -  âge du protolithe,48.6577,-18.9639,,,zircon,Tucker et al. 1999,,2517,2,2
+RT-74,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Granodiorite à biotite,46.67,-17.0877,,,zircon,Tucker et al. 1999,,779,2,2
+RT-75a,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Granodiorite à biotite et sillimanite dans gneiss,46.8623,-16.9219,,,zircon,Tucker et al. 1999,,779,3,2
+RT-95b,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Gneiss granodioritique à hornblende,48.6056,-18.9763,,,zircon,Tucker et al. 1999,,637,1,2
+A,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,"Orthogneiss granitique Mahaiza, Nord Itremo",46.7695,-19.9267,,,zircon,Tucker et al. 2007,,2493,1,2
+A,Magmatic,No,,No,Madagascar,Madagascar - central,ANT,,Mahaiza granite orthogneiss,46.7695,-19.9267,,,zircon,Tucker et al. 2007,,2493,1,2
+TUC_2007_56,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,Malaikavaratsy gabbro/tonalite,46.2738,-20.047,,,zircon,Tucker et al. 2007,,786,13,2
+L,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Syénite Marovoalavo,46.7006,-20.3994,,,zircon,Tucker et al. 2007,,570,1,2
+TUC_2007_10,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Falairivo granite,46.5868,-20.031,,,zircon,Tucker et al. 2007,,537,4,2
+TUC_2007_12,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Ifasina syenite,46.705,-20.5775,,,zircon,Tucker et al. 2007,,570,1,2
+TUC_2007_13,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Andringitra granite,46.8682,-20.7935,,,zircon,Tucker et al. 2007,,539,2,2
+IHY-08-03A,Magmatic,Yes,No,No,Madagascar,Madagascar - central,Antananarivo Domain,Imorona-Itsindro,Metagranite,46.239700,-22.317400,Reported,SHRIMP,Zircon,Tucker et al. 2011,http://dx.doi.org/10.1016/j.precamres.2010.12.008,810,16,
+IHY-08-10,Magmatic,Yes,No,No,Madagascar,Madagascar - central,Ikalamavony Domain,,Metagranite,46.360600,-22.403300,Reported,SHRIMP,Zircon,Tucker et al. 2011,http://dx.doi.org/10.1016/j.precamres.2010.12.008,803,18,
+IHY-08-23,Magmatic,Yes,No,No,Madagascar,Madagascar - central,Ikalamavony Domain,Ikalamavony Group,Metagranite,46.355500,-22.222500,Reported,SHRIMP,Zircon,Tucker et al. 2011,http://dx.doi.org/10.1016/j.precamres.2010.12.008,1035,30,
+PD07018,Magmatic,Yes,No,No,Madagascar,Madagascar - central,Ikalamavony Domain,Ikalamavony Group,garnet-biotite paragneiss,45.900487,-19.648181,Reported,SHRIMP,Zircon,Tucker et al. 2011,http://dx.doi.org/10.1016/j.precamres.2010.12.008,1050,50,
+PD07019,Magmatic,Yes,No,No,Madagascar,Madagascar - central,Ikalamavony Domain,Ikalamavony Group,garnet-biotite paragneiss,45.900487,-19.648181,Reported,SHRIMP,Zircon,Tucker et al. 2011,http://dx.doi.org/10.1016/j.precamres.2010.12.008,998,15,
+PR06090B,Magmatic,Yes,No,No,Madagascar,Madagascar - central,Ikalamavony Domain,Ikalamavony Group,quartzo-feldspathic gneiss,45.495532,-19.515086,Reported,SHRIMP,Zircon,Tucker et al. 2011,http://dx.doi.org/10.1016/j.precamres.2010.12.008,1013,10,
+MAE-1018B,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Aplite,46.8883,-17.212,,,zircon,Tucker et al. 2011a,,760,11,2
+MAE-1023B,Magmatic,No,,No,Madagascar,Madagascar - central,TSAR,,Aplite dike,46.8638,-17.1906,,,zircon,Tucker et al. 2011a,,770,10,2
+TUC_2007_03,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,Andaingo diorite,46.7092,-19.9705,,,zircon,"Tucker et al., 2007",,784,2,2
+TUC_2007_04,Magmatic,No,,No,Madagascar,Madagascar - central,IKAL,,Kamaroa gabbro,46.3025,-20.1405,,,zircon,"Tucker et al., 2007",,784,6,2
+TUC_2007_11,Magmatic,No,,No,Madagascar,Madagascar - central,ITREMO,,Vohimavo granite,46.5923,-20.3217,,,zircon,"Tucker et al., 2007",,542,3,2
+IHY-08-18A,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Metagranite,46.142,-21.9085,,,zircon,BRGM-USGS,,520,50,2
+M03-26,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Spr-OPx gneiss / Cpx marble,45.9293,-23.4919,,,zircon,"Collins et al., 2012",,1844,18,2
+M03-28,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Bi-Sil-Crd gneiss,46.1466,-22.4051,,,zircon,"Collins et al., 2012",,1920,15,2
+M03-06,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Psamopelitic gneiss,44.85819444,-23.922444,,,zircon,"Collins et al., 2012",,852,4,2
+M03-01,Magmatic,No,,No,Madagascar,Madagascar - southern,VOH,,Grt-Bt-Qtz-Fk gneiss,44.660694,-23.871972,,,zircon,"Collins et al., 2012",,841,15,2
+M95-22,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Dyke aplite W Ankafotra -  âge mise en place,45.1231,-23.8572,,,zircon,de Wit  et al. 2001,,608,1,2
+M95-23A,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Gneiss pélitique -  âge métamorphisme,45.1825,-23.7944,,,zircon,de Wit et al. 2001,,618,2,2
+M95-39A,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Anorthosite déformée -  âge métam ou igné -  métam à 561 ± 1 Ma,45.1619,-23.9117,,,zircon,de Wit et al. 2001,,624,6,2
+M92-3E,Magmatic,No,,No,Madagascar,Madagascar - southern,VOH,,"Pegmatite, âge de mise en place -  D3 = 607-609 -  monazite 575-520",44.5896,-24.4802,,,monazite,de Wit et al. 2001,,608,1,2
+M92-51,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Pegmatite -  zircon détritique à 958-1208 Ma -  monazite = métamorphique,46.1481,-22.4026,,,monazite,de Wit et al. 2001,,548,2,2
+M95-14/15A,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Leptynite métavolc Ampanihy,44.9493,-24.5333,,,xenothime,de Wit et al. 2001,,722,50,2
+M95-14/15A,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Leptynite métavolc Ampanihy,44.9493,-24.5333,,,monazite,de Wit et al. 2001,,527,2,2
+M95-6,Magmatic,No,,No,Madagascar,Madagascar - southern,VOH,,Dyke granite leuco -  D1 = 628-648 -  D2 = 627-628,44.5891,-24.5208,,,monazite,de Wit et al. 2001,,618,10,2
+M92-17,Magmatic,No,,No,Madagascar,Madagascar - southern,VOH,,Charnockite non déformée (Mz 605-555 metamorphisme/métasomatose),44.8786,-24.6863,,,zircon,de Wit et al. 2001,,614,2,2
+SBO_0048_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Ankiliabao granite,44.9581,-24.6904,,,zircon,GAF-BGR 2008,,922,20,2
+SBO_0090_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Ankiliabao anorthosite,44.9246,-24.5178,,,zircon,GAF-BGR 2008,,920,36,2
+SBO_0154_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Marasovoa orthogneiss,44.8605,-23.8578,,,zircon,GAF-BGR 2008,,667,4,2
+SBO_0827_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,felsic volcanic sheet,44.8208,-24.2364,,,zircon,GAF-BGR 2008,,640,50,2
+SBO_1542_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,post-tectonic granite,45.5256,-23.2701,,,zircon,GAF-BGR 2008,,541,2,2
+SBO_1589_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Androyan granite,45.6699,-23.7751,,,zircon,GAF-BGR 2008,,576,4,2
+WHI_0088_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,ortho-gneiss,44.9503,-23.9648,,,zircon,GAF-BGR 2008,,645,25,2
+SBO_1010_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Ambalavoa granite,46.6385,-23.7348,,,zircon,GAF-BGR 2008,,518,15,2
+SBO_1040_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Ambalavoa granite,46.8161,-24.274,,,zircon,GAF-BGR 2008,,573,6,2
+WHI_0375_00,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,felsic volcanic sheet,46.2497,-22.3158,,,zircon,GAF-BGR 2008,,736,16,2
+Z283,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Granitic gneiss,45.4925,-23.527,,,zircon,JICA 2012,,2091,34,2
+Z202,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Granitic gneiss,45.7031,-24.106,,,zircon,JICA 2012,,1781,31,2
+N013,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Granitic gneiss,45.6372,-23.7811,,,zircon,JICA 2012,,578.2,7.5,2
+N013,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Granitic gneiss,45.6372,-23.7811,,,zircon,JICA 2012,,542.2,7.7,2
+R069,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Granite,45.6151,-23.2899,,,zircon,JICA 2012,,590,11.5,2
+Z232,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Granitic gneiss,45.5193,-24.3217,,,zircon,JICA 2012,,572,32,2
+Z258,Magmatic,No,,No,Madagascar,Madagascar - southern,ANDR,,Augen gneiss,45.5458,-23.2213,,,zircon,JICA 2012,,563.1,9.6,2
+N053,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Syenite,46.1038,-23.6446,,,zircon,JICA 2012,,580,11,2
+KRO_1999_32,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Granite biotite-Gt NE Ihosy,46.1705,-22.3918,,,zircon,Kröner et al. 1999,,569,2,2
+Mad 32,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Granite biotite-Gt NE Ihosy -  héritage source à 1230 Ma,46.1705,-22.3918,,,zircon,Kröner et al. 1999,,568.7,1.6,2
+BM-303-96,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,leptynite,46.59,-22.82,,,zircon,Müller 2000,,1839.8,4.7,2
+BM-3/B-97,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,granite pegmatite,46.29,-22.49,,,zircon,Müller 2000,,534.6,1.6,2
+BM-73-97,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,granite,46.16,-22.41,,,zircon,Müller 2000,,527,25,2
+A1210,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Orthogneiss Vohimena -  UI=1679 ± 4 Ma,46.4796,-24.6197,,,zircon,Paquette et al.  1994,,1679,4,2
+PAQ_1994_1002,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,orthogneiss,46.8584,-24.7468,,,zircon,"Paquette et al. , 1994",,554,20,2
+PAQ_1994_1003,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,orthogneiss,46.8564,-24.7441,,,zircon,"Paquette et al. , 1994",,520,18,2
+PAQ_1994_1010,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,orthogneiss,46.9726,-25.0008,,,zircon,"Paquette et al. , 1994",,552,19,2
+PAQ_1994_1111,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,orthogneiss,46.8636,-24.7955,,,zircon,"Paquette et al. , 1994",,536,13,2
+PAQ_1994_1210,Magmatic,No,,No,Madagascar,Madagascar - southern,ANOY,,Stratoid granite,46.5439,-24.6041,,,zircon,"Paquette et al. , 1994",,572,14,2
+IHY-08-12,Magmatic,Yes,No,No,Madagascar,Madagascar - southern,Anoysen Domain,Tranomaro Group,Metagabbro,46.070800,-21.900900,Reported,SHRIMP,Zircon,Tucker et al. 2011,http://dx.doi.org/10.1016/j.precamres.2010.12.008,1908,8,
+IHY-08-20A,Magmatic,Yes,No,No,Madagascar,Madagascar - southern,Anoysen Domain,Tranomaro Group,Metagranite,46.014200,-22.494500,Reported,SHRIMP,Zircon,Tucker et al. 2011,http://dx.doi.org/10.1016/j.precamres.2010.12.008,1793,19,
+IHY-08-12,Magmatic,Yes,,No,Madagascar,Madagascar - southern,ANOY,,Metagabbro,46.0708,-21.9009,,,zircon,Tucker et al. 2011b,,1908,8,2
+IHY-08-20A,Magmatic,Yes,,No,Madagascar,Madagascar - southern,ANOY,,Metagranite,46.0142,-22.4945,,,zircon,Tucker et al. 2011b,,1793,19,2
+102-216,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Medium-grained leucocratic biotite-bearing granite,35.53054895,-4.86880007,,,zircon,Thomas et al. 2016,,2775,19,
+AMB178_80,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,,,Granodioritic orthogneiss,32.32671828,-6.394983934,,,zircon,Thomas et al. 2016,,2782,15,
+FMP273W,Magmatic,No,,Yes,Africa,Africa - Tanzania Craton,,,Granitic orthogneiss,34.26441278,-4.669052278,,,zircon,Thomas et al. 2016,,2822,4,
+MMR7,Magmatic,Yes,No,Yes,Madagascar,Madagascar - central,Anaboriana-Manampotsy,Manampotsy Group,Metagabbro,47.7745,-20.8208,Reported,SHRIMP/ICP-MS,Zircon,BGS et al. 2008/Armistead et al. 2017,NA,3000,200,
+RT07-076,Magmatic,No,,No,Madagascar,,BEM,,Granite,49.4385,-13.4362,,,zircon,BGS et al. 2008,,708,6,2
+RT99A-74,Magmatic,No,,No,Madagascar,,BEM,,Marojezy Charnockite,49.678,-14.7175,,,zircon,Buchwaldt et al. 2003,,521,4,2
+BB/06A/12,Magmatic,No,,No,Madagascar,,BEM,,Rhyolite,49.8762,-13.2988,,,zircon,Thomas et al. 2009,,719,6,2
+BDW315A,Magmatic,No,,No,Madagascar,,BEM,,Métagranodiorite,49.3712,-13.766,,,zircon,Thomas et al. 2009,,718,6,2
+BT/06/2/36,Magmatic,No,,No,Madagascar,,BEM,,Diorite,49.9153,-13.9953,,,zircon,Thomas et al. 2009,,755,5,2
+BT/06/41,Magmatic,No,,No,Madagascar,,BEM,,Metatonalitic orthogneiss,49.9411,-14.0582,,,zircon,Thomas et al. 2009,,746,4,2
+RT06-078,Magmatic,No,,No,Madagascar,,BEM,,Gneiss Quartzo-Feldspathique,49.741,-12.9375,,,zircon,Thomas et al. 2009,,739,8,2
+RT-06-467,Magmatic,No,,No,Madagascar,,BEM,,granodioritic gneiss,49.7379,-14.2695,,,zircon,Thomas et al. 2009,,755,6,2
+RT07-121,Magmatic,No,,No,Madagascar,,BEM,,Métagranodiorite,48.7316,-13.7815,,,zircon,Thomas et al. 2009,,711,6,2
+RT07-146,Magmatic,No,,No,Madagascar,,BEM,,Charnockite,48.8074,-13.6728,,,zircon,Thomas et al. 2009,,705,6,2
+WB73,Magmatic,No,,No,Madagascar,,BEM,,granite gneiss,49.9354,-14.8856,,,zircon,Thomas et al. 2009,,758,5,2
+RT-95D-85,Magmatic,No,,No,Madagascar,,BEM,,aplite dike,49.756,-13.2019,,,zircon,Tucker et al. 1999b,,715,50,2
+RT-95M-88A,Magmatic,No,,No,Madagascar,,BEM,,Manambery granite,49.9419,-13.4423,,,zircon,Tucker et al. 1999b,,714,50,2
+RT-95M-90A,Magmatic,No,,No,Madagascar,,BEM,,Gneiss granodioritique (Gr. Ampanefena-Tsaratanana),49.9634,-13.9741,,,zircon,Tucker et al. 1999b,,753.8,50,2
+RT-95M-90B,Magmatic,No,,No,Madagascar,,BEM,,Aplite dike,49.9634,-13.9741,,,zircon,Tucker et al. 1999b,,749,50,2
+RT-95V-87,Magmatic,No,,No,Madagascar,,BEM,,"Granite à biotite, groupe de Manambato",49.8105,-13.2497,,,zircon,Tucker et al. 1999b,,716.5,50,2
+RT-99D-18A,Magmatic,No,,No,Madagascar,,BEM,,Daraina rhyolite bomb,49.6317,-13.1874,,,zircon,Tucker et al. 1999b,,751.5,50,2
+RT-99M-30,Magmatic,No,,No,Madagascar,,BEM,,Milanoa granodiorite,49.7259,-13.6402,,,zircon,Tucker et al. 1999b,,716,50,2
+RT-99M-39E,Magmatic,No,,No,Madagascar,,BEM,,Milanoa rhyolite bomb,49.7683,-13.655,,,zircon,Tucker et al. 1999b,,746.8,50,2
+RT-99M-50,Magmatic,No,,No,Madagascar,,BEM,,Milanoa granite,49.7969,-13.634,,,zircon,Tucker et al. 1999b,,712.7,50,2
+TNT-06-07,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.540000,9.945833,,,zircon,Vijaya Kumar et al 2017,,771,6,
+TNT-06-21,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.025278,9.817222,,,zircon,Vijaya Kumar et al 2017,,777,45,
+I06-23,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Monzodiorite,77.44352778,9.358638889,,,zircon,Plavsa 2012,,781,8,
+TNT-99-44,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.576667,10.527222,,,zircon,Vijaya Kumar et al 2017,,782,10,
+SI10-113,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,granodioritic gneiss,78.11902778,10.73491667,,,zircon,Plavsa 2015,,789,5,
+S?404B,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.55361111,10.92416667,,,zircon,"Ghosh et al., 2004",,791,50,
+I06-76,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Granite,77.51383333,10.10180556,,,zircon,Plavsa 2012,,795,17,
+S?267,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.94666667,10.65777778,,,zircon,"Ghosh et al., 2004",,796,1,
+I06-22,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Granodiorite,77.44352778,9.358638889,,,zircon,Plavsa 2012,,798,22,
+S?259M,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.27972222,10.685,,,zircon,"Ghosh et al., 2004",,800,100,
+S?414,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.51555556,10.62694444,,,zircon,"Ghosh et al., 2004",,800,100,
+TNT-06-74,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.451944,8.863056,,,zircon,Vijaya Kumar et al 2017,,869,52,
+TNT-05-14,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.833889,9.717222,,,zircon,Vijaya Kumar et al 2017,,900,9,
+TNT-06-76,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.449722,8.716389,,,zircon,Vijaya Kumar et al 2017,,914,30,
+S?325C,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.87388889,9.146111111,,,zircon,"Ghosh et al., 2004",,952,19,
+I06-33,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Quartz monzonite,77.47358333,9.396416667,,,zircon,Plavsa 2012,,1007,23,
+S?320Z,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.88583333,9.114166667,,,zircon,"Ghosh et al., 2004",,1082,0.52,
+Ind-2,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Charnockite,76.90666667,9.037777778,,,zircon,Kroner 2012,,1553,21,
+S?404A,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.55361111,10.92416667,,,zircon,"Ghosh et al., 2004",,1643,10,
+I06-06,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.877222,9.012222,,,zircon,Vijaya Kumar et al 2017,,1842,14,
+Ind-1,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Charnockite,76.90555556,8.701111111,,,zircon,Kroner 2012,,1881,14,
+TNT-06-50,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.880000,8.780556,,,zircon,Vijaya Kumar et al 2017,,1966,22,
+TNT-06-101,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.393611,8.198333,,,zircon,Vijaya Kumar et al 2017,,1978,10,
+S?361A,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.88583333,9.114166667,,,zircon,"Ghosh et al., 2004",,1996,20,
+IND12-006B,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Garnet bearing leucogranite,,,,,zircon,"Clark et al., in review",,2012,53,
+IND12-005B,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Garnet bearing leucogranite,,,,,zircon,"Clark et al., in review",,2027,41,
+IND12-006C,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Garnet bearing leucogranite,,,,,zircon,"Clark et al., in review",,2029,65,
+TNT-06-96,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.507222,8.238611,,,zircon,Vijaya Kumar et al 2017,,2034,14,
+IND12-004B,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Garnet bearing leucogranite,,,,,zircon,"Clark et al., in review",,2039,20,
+IND12-006A,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Garnet bearing leucogranite,,,,,zircon,"Clark et al., in review",,2042,45,
+SI10-53,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,leucosome,78.15327778,11.12430556,,,zircon,Plavsa 2015,,2442,26,
+S?236,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.065,10.9075,,,zircon,"Ghosh et al., 2004",,2442,13,
+TNT-05-85,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.691111,10.051944,,,zircon,Vijaya Kumar et al 2017,,2459,7,
+SI10-77,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,pegmatite,78.08527778,11.02297222,,,zircon,Plavsa 2015,,2499,21,
+I05-80,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Quartz diorite,77.52511111,10.988,,,zircon,Plavsa 2012,,2500,50,
+S?273,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.61305556,11.53055556,,,zircon,"Ghosh et al., 2004",,2500,100,
+I06-89,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Granodiorite,77.5485,10.36130556,,,zircon,Plavsa 2012,,2501,19,
+I06-88,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Granodiorite,77.5485,10.36130556,,,zircon,Plavsa 2012,,2504,20,
+S?130M,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.20111111,11.32777778,,,zircon,"Ghosh et al., 2004",,2507,5.4,
+S?416,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,77.04444444,9.738888889,,,zircon,"Ghosh et al., 2004",,2511,27,
+S?220,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.2425,23.165,,,zircon,"Ghosh et al., 2004",,2512,2,
+TN-29,Magmatic,Yes,No,No,India,India - Southern Granulite Terrane,Southern Granulite Terrane,quarry near Alathurgate,Leucogranite,78.827330,11.141160,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2518,12,
+I05-49,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Granodiorite,77.96461111,10.83719444,,,zircon,Plavsa 2012,,2520,17,
+2S,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.96027778,11.2775,,,zircon,"Ghosh et al., 2004",,2520,100,
+G?5,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.96027778,11.2775,,,zircon,"Ghosh et al., 2004",,2520,100,
+GM?4,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,76.96027778,11.2775,,,zircon,"Ghosh et al., 2004",,2520,100,
+TN-34,Magmatic,Yes,No,Yes,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System,Tiruvannamalai hills,Granite,79.051280,12.227900,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2523,22,
+MN4,Magmatic,No,No,Yes,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System, ,felsic volcanic,76.747278,11.113472,Reported,ICP-MS,Zircon,Praveen et al. 2014,http://dx.doi.org/10.1016/j.gr.2013.08.004,2523,41,
+I06-74,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Quartz monzonite,77.65605556,10.00813889,,,zircon,Plavsa 2012,,2525,25,
+I05-84,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Granodiorite,76.95005556,10.27694444,,,zircon,Plavsa 2012,,2527,8,
+S?27A,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.13833333,11.62555556,,,zircon,"Ghosh et al., 2004",,2528,4,
+I06-129,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.000000,13.000000,No idea,,zircon,"Clark et al., 2009",,2529,7,
+TN-20,Magmatic,Yes,No,Yes,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System,Near Yercaud,Grt-bearing,78.192500,11.774990,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2530,15,
+TN-18,Magmatic,Yes,No,No,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System,Near Salem,Charnockite,78.147680,11.605650,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2531,10,
+TN-38,Magmatic,Yes,No,No,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System,Vedhagiriswarar hill,Charnockite,80.057170,12.613190,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2531,9,
+SI10-24,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,granodioritic gneiss,78.23136111,11.40586111,,,zircon,Plavsa 2015,,2534,17,
+S?130,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.20111111,11.32777778,,,zircon,"Ghosh et al., 2004",,2537,0.7,
+I06-128,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.000000,13.000000,No idea,,zircon,"Clark et al., 2009",,2538,6,
+TN-31,Magmatic,Yes,No,Yes,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System,Near Gingee fortress,Charnockite (granodioritic),79.449230,12.254500,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2540,10,
+MN3,Magmatic,No,No,Yes,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System, ,felsic volcanic,76.747278,11.113472,Reported,ICP-MS,Zircon,Praveen et al. 2014,http://dx.doi.org/10.1016/j.gr.2013.08.004,2542,65,
+MN1,Magmatic,No,No,Yes,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System, ,felsic volcanic,76.747278,11.113472,Reported,ICP-MS,Zircon,Praveen et al. 2014,http://dx.doi.org/10.1016/j.gr.2013.08.004,2558,36,
+TN-28,Magmatic,Yes,No,Yes,India,India - Southern Granulite Terrane,Southern Granulite Terrane,Tiruchirappalli,Granite,78.698230,10.827460,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2683,12,
+I06-87,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,Granodiorite,77.57397222,10.34094444,,,zircon,Plavsa 2012,,2689,26,
+TN-16,Magmatic,Yes,No,Yes,India,India - Southern Granulite Terrane,Palghat Cauvery Shear System,A. Pallipatti quarry,Charnockite (dioritic),78.395000,11.919190,Reported,ICP-MS,Zircon,Glorie et al. 2014,http://dx.doi.org/10.1016/j.precamres.2014.05.017,2758,16,
+S?117,Magmatic,No,,No,India,India - Southern Granulite Terrane,,,,78.19916667,11.13222222,,,zircon,"Ghosh et al., 2004",,2900,100,
+Ind55d,Magmatic,No,,No,India,India - Dharwar Craton,Western Dharwar Craton,,,76.08333333,12.90916667,Reported,,zircon,"Jayananda et al., 2015",,3231,8,
+Ind55c,Magmatic,No,,No,India,India - Dharwar Craton,Western Dharwar Craton,,,76.07444444,12.91472222,Reported,,zircon,"Jayananda et al., 2015",,3276,4,
+GUN1A,Magmatic,No,,No,India,India - Dharwar Craton,Western Dharwar Craton,,,76.33805556,12.74222222,Reported,,zircon,"Jayananda et al., 2015",,3103,15,
+HL5A,Magmatic,No,,No,India,India - Dharwar Craton,Western Dharwar Craton,,,76.16805556,12.88,Reported,,zircon,"Jayananda et al., 2015",,3103,7,
+Ind54b,Magmatic,No,,No,India,India - Dharwar Craton,Western Dharwar Craton,,,76.49805556,12.93,Reported,,zircon,"Jayananda et al., 2015",,3091,12,
+HL1A,Magmatic,No,,No,India,India - Dharwar Craton,Western Dharwar Craton,,,76.10277778,12.86805556,Reported,,zircon,"Jayananda et al., 2015",,3206,11,
+Ind57b,Magmatic,No,,No,India,India - Dharwar Craton,Western Dharwar Craton,,,75.08472222,12.95,Reported,,zircon,"Jayananda et al., 2015",,3348,4,
+Ind480,Magmatic,No,,No,India,India - Dharwar Craton,Western Dharwar Craton,,,75.83277778,13.28694444,Reported,,zircon,"Jayananda et al., 2015",,3153,4,
+Z16-26,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,Chewore-Rufunsa Terrane,,Quartz-K feldspar-Biotite-Garnet gneiss,29.98638889,-14.98583333,,,zircon,"Alessio et al., 2019",,2035,25,
+Z16-27,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,Chewore-Rufunsa Terrane,,Plagioclase-Quartz-Biotite gneiss,29.98638889,-14.98583333,,,zircon,"Alessio et al., 2019",,2000,9,
+Z16-33,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,Nyimba Sinda Terrane,,Granite,31.53583333,-14.30166667,,,zircon,"Alessio et al., 2019",,498,3,
+Z16-50,Magmatic,Yes,,No,Africa,Africa - Tanzania Craton,Nyimba Sinda Terrane,,Granite,31.69666667,-14.23555556,,,zircon,"Alessio et al., 2019",,498,3,
+Z16-40,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,Chipata Terrane,,Quartz-K feldspar-Plagioclase-Garnet gneiss,32.48916667,-13.70694444,,,zircon,"Alessio et al., 2019",,2009,30,
+Z16-41,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,Chipata Terrane,,Clinopyroxene charnockite,32.54916667,-13.67305556,,,zircon,"Alessio et al., 2019",,1040,5,
+Z16-42,Magmatic,Yes,,Yes,Africa,Africa - Tanzania Craton,Chipata Terrane,,Clinopyroxene-Garnet charnockite,32.54916667,-13.67305556,,,zircon,"Alessio et al., 2019",,1039,6,
+Z16-45,Magmatic,Yes,,No,Africa,Africa - Tanzania Craton,Chipata Terrane,,Biotite granite,32.37277778,-13.88138889,,,zircon,"Alessio et al., 2019",,1050,150,
+PD17-1,Magmatic,No,,Yes,India,India - Dharwar Craton,,Madapatna Quarry,Granitoid Gneiss,77.35293333,12.93823333,,,zircon,"Pavan et al., unpublished",,2562,,
+PD17-21,Magmatic,No,,Yes,India,India - Dharwar Craton,,Sankanahalli,Granitoid Gneiss,76.7122,12.788,,,zircon,"Pavan et al., unpublished",,2991,,
+PD17-27,Magmatic,No,,Yes,India,India - Dharwar Craton,,Vaderahalli,Granitoid Gneiss ,76.75573333,12.92885,,,zircon,"Pavan et al., unpublished",,3000,,
+PD17-32,Magmatic,No,,Yes,India,India - Dharwar Craton,,"Hulikere, Melukote",Granitoid Gneiss,76.63278333,12.62553333,,,zircon,"Pavan et al., unpublished",,3217,,
+PD17-38,Magmatic,No,,Yes,India,India - Dharwar Craton,,Singanahalli Gate,Granitoid Gneiss,76.48961667,12.7363,,,zircon,"Pavan et al., unpublished",,3112,,
+PD17-44,Magmatic,No,,Yes,India,India - Dharwar Craton,,Singanahalli village,Granitoid Gneiss,76.37251667,12.59771667,,,zircon,"Pavan et al., unpublished",,3190,,
+PD17-48,Magmatic,No,,Yes,India,India - Dharwar Craton,,Arakere road,Granitoid Gneiss,76.15093333,12.77306667,,,zircon,"Pavan et al., unpublished",,3174,,
+PD17-49,Magmatic,No,,Yes,India,India - Dharwar Craton,,Gorur town,Granitoid Gneiss,76.06583333,12.83033333,,,zircon,"Pavan et al., unpublished",,3191,,
+PD17-56,Magmatic,No,,Yes,India,India - Dharwar Craton,,Javenahalli,Granitoid Gneiss,76.08125,12.92985,,,zircon,"Pavan et al., unpublished",,3302,,
+PD18-1,Magmatic,No,,Yes,India,India - Dharwar Craton,,Bilagi,Bt-Granite,75.61198,16.33885,,,zircon,"Pavan et al., unpublished",,2613,,
+PD18-101,Magmatic,No,,Yes,India,India - Dharwar Craton,,,Augen gneiss,77.28368,13.17818,,,zircon,"Pavan et al., unpublished",,2545,,
+PD18-104,Magmatic,No,,Yes,India,India - Dharwar Craton,,,Banded Gneiss,76.99198,13.54972,,,zircon,"Pavan et al., unpublished",,3301,,
+PD18-105,Magmatic,No,,Yes,India,India - Dharwar Craton,,Sira,TTG Gneiss,76.88171,13.72904,,,zircon,"Pavan et al., unpublished",,2600,,
+PD18-108,Magmatic,No,,Yes,India,India - Dharwar Craton,,,TTG Gneiss,76.43247,13.89725,,,zircon,"Pavan et al., unpublished",,3232,,
+PD18-110,Magmatic,No,,Yes,India,India - Dharwar Craton,,Hosdurga,Bt gneiss,76.35491,13.86205,,,zircon,"Pavan et al., unpublished",,3197,,
+PD18-111,Magmatic,No,,Yes,India,India - Dharwar Craton,,Hosdurga,Granitic Gneiss,76.32336,13.77185,,,zircon,"Pavan et al., unpublished",,3221,,
+PD18-116,Magmatic,No,,Yes,India,India - Dharwar Craton,,Shimoga,Granite,75.57293,13.90487,,,zircon,"Pavan et al., unpublished",,3211,,
+PD18-118,Magmatic,No,,Yes,India,India - Dharwar Craton,,Honnali,TTG Gneiss,75.61265,14.20827,,,zircon,"Pavan et al., unpublished",,3284,,
+PD18-120,Magmatic,No,,Yes,India,India - Dharwar Craton,,Thirthahalli,Granitic Gneiss,75.24567,13.67886,,,zircon,"Pavan et al., unpublished",,3153.7,,
+PD18-126,Magmatic,No,,Yes,India,India - Dharwar Craton,,Chikamagulur,Granite,75.82401,13.30347,,,zircon,"Pavan et al., unpublished",,3087,,
+PD18-27,Magmatic,No,,Yes,India,India - Dharwar Craton,,,TTG melanosome,76.84401,15.13743,,,zircon,"Pavan et al., unpublished",,2722,,
+PD18-34,Magmatic,No,,Yes,India,India - Dharwar Craton,,,Grey Granite,76.44863,14.97457,,,zircon,"Pavan et al., unpublished",,2972,,
+PD18-37,Magmatic,No,,Yes,India,India - Dharwar Craton,,,Granite,76.36622,14.98212,,,zircon,"Pavan et al., unpublished",,2566,,
+PD18-39,Magmatic,No,,Yes,India,India - Dharwar Craton,,,Amphibole Granite,76.98873,15.13962,,,zircon,"Pavan et al., unpublished",,2682,,
+PD18-44,Magmatic,No,,Yes,India,India - Dharwar Craton,,,Grey Bt Granite,77.22908,14.97192,,,zircon,"Pavan et al., unpublished",,2665,,
+PD18-45,Magmatic,No,,Yes,India,India - Dharwar Craton,,,Bt Granite,77.27879,14.893,,,zircon,"Pavan et al., unpublished",,2676,,
+PD18-47,Magmatic,No,,Yes,India,India - Dharwar Craton,,,TTG melanosome,77.51852,14.72877,,,zircon,"Pavan et al., unpublished",,2620,,
+PD18-54,Magmatic,No,,Yes,India,India - Dharwar Craton,,,Banded Gneiss,77.56143,14.32158,,,zircon,"Pavan et al., unpublished",,2627,,
