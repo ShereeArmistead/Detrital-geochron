@@ -2,7 +2,7 @@
 
 # Description:
 This R script 'DetritalPie.v.1.R' uses detrital zircon and magmatic age data to produce a range of plots including Kernel Denisty Estimates (KDE), Multidimensional Scaling (MDS) and geographical maps. 
-Inspired largely from the python package DetritalPy (https://github.com/grsharman/detritalPy)
+Inspired largely from the plots in the python package DetritalPy (https://github.com/grsharman/detritalPy)
 
 ## Example plots
 
