@@ -21,3 +21,5 @@ Better/higher resolution maps can be produced in R, but I've just included a ver
 This section using the 'Provenance' package by Pieter Vermeesch to extract coordinates from the MDS plot and plot each sample as a pie symbol
 
 <img src="https://github.com/ShereeArmistead/Detrital-geochron/blob/master/Fig3_Detrital_Pie_MDS.png" alt="alt text" width="800">
+
+This is my first upload to Github, please let me know if you run into any issues or have any feedback! :) 
